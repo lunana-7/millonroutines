@@ -23,6 +23,10 @@
     {
       "pattern": "millionroutines.com",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.millionroutines.com",
+      "custom_domain": true
     }
   ],
   "preview_urls": false
