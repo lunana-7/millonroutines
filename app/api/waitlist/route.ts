@@ -12,7 +12,7 @@ export async function POST(request: Request) {
  const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
  if (email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return Response.json({error:"Please enter a valid email address."},{status:400});
  if (body.consent !== true) return Response.json({error:"Please agree to receive project and launch updates."},{status:400});
- if (!["morning","connection","evening","undecided"].includes(body.preference)) return Response.json({error:"Please choose a routine preference."},{status:400});
+ if (!["morning","connection","evening","undecided","korean-tea"].includes(body.preference)) return Response.json({error:"Please choose a routine preference."},{status:400});
  try {
   await getDb().insert(waitlist).values({id:crypto.randomUUID(),email,preference:body.preference,consentVersion:"launch-updates-v1",createdAt:Date.now()}).onConflictDoNothing({target:waitlist.email});
   return Response.json({ok:true},{headers:{"Cache-Control":"no-store"}});

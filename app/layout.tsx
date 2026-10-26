@@ -4,8 +4,8 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://millionroutines.com"),
   alternates: { canonical: "/" },
-  title: "Million Routines — A little more like yourself",
-  description: "Thoughtfully designed routine kits for softer mornings, closer connections, and quieter evenings.",
+  title: "Million Routines — The Korean Tea Ritual",
+  description: "Our first bundle: Korean tea, considered teaware and a modern ritual inspired by darye. Korean roots. Everyday rituals.",
   icons: {
     icon: [
       { url: "/brand/million-routines-icon-32.png", sizes: "32x32", type: "image/png" },
