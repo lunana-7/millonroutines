@@ -18,3 +18,15 @@ The four-step sequence and approximate ten-minute format are our own contemporar
 ## Images
 
 Created with built-in image_gen. Full prompts are in prompts.json; original generated files are hero-master.png and story-master.png. WebP derivatives in public/images use the actual master dimensions without enlargement. Concept labels distinguish these assets from confirmed product photography.
+
+
+## Najeon and wellness field notes
+
+- National Folk Museum of Korea, [Najeon, Glimmer & Shine](https://nfm.go.kr/user/bbs/english/17/469/bbsDataView/23846.do?bbsDataCategory=&column=&page=2&search=&searchEDate=&searchSDate=): mother-of-pearl pieces decorate lacquerware. New artwork is digitally generated inspiration, not an actual historical object or a confirmed bundle component.
+- [Official Templestay](https://www.templestay.com/en/main/view.do): lists Cham-Seon and Da-Seon, with Buddhist cultural context.
+- [Korea Forest Welfare Institute](https://www.fowi.or.kr/user/eng/forestTherapy.do): contemporary Korean forest welfare/therapy framework. Site discusses nature-based activities without repeating clinical benefit claims.
+- [Korea Tourism Organization: K-Jjimjilbangs](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=217505): contemporary bathhouse and shared leisure culture. Do not label modern jjimjilbangs or forest programs as ancient practices.
+
+The short home suggestions are brand adaptations. They do not establish medical efficacy or substitute for formal religious instruction, guided forest programs or visiting a bathhouse. A tea preparation sequence followed by an optional quiet pause is the strongest fit for the first bundle; it should be presented as a modern routine inspired by Korean tea culture.
+
+Najeon asset: najeon-master-v1.png (1774 × 887), built-in image_gen. Full prompt: najeon-prompt.json. WebP sizes 960 and 1774, without enlargement.
