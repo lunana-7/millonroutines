@@ -18,5 +18,12 @@
   ],
   "observability": {
     "enabled": true
-  }
+  },
+  "routes": [
+    {
+      "pattern": "millionroutines.com",
+      "custom_domain": true
+    }
+  ],
+  "preview_urls": false
 }
