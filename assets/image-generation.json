@@ -1,0 +1,40 @@
+{
+  "mode": "built-in image_gen",
+  "portraitResolution": {
+    "width": 1086,
+    "height": 1448
+  },
+  "storyboardResolution": {
+    "width": 1672,
+    "height": 941
+  },
+  "portraits": [
+    {
+      "routine": "morning",
+      "prompt": "Recreate this exact calm morning matcha scene in high resolution for the Million Routines website. Preserve the young adult woman with dark curly hair in a loose bun, sage green overshirt over cream top, her gentle downward gaze and hand whisking green matcha in a speckled ceramic bowl on a sunlit wooden table. Preserve the warm plant-filled apartment, natural warm window daylight, soft olive/cream/wood palette. Keep her face and hands anatomically natural and finely detailed. Editorial lifestyle photograph with subtle painterly softness like the source, but sharply resolved ceramic glaze, fabric weave, bamboo whisk, hair, and skin, no pixelation or blur. Reconstruct lost detail faithfully. Single full-bleed portrait composition, 1536 by 2048 pixels or higher, subject centered with the entire bowl and whisk visible and comfortable headroom for responsive cropping. Remove the source’s rounded frame, cream gutters and partial adjacent storyboard panels. No text, logos, arrows, watermark or collage."
+    },
+    {
+      "routine": "connection",
+      "prompt": "Recreate the supplied Korean tea-sharing illustration at high resolution for the Million Routines website, preserving the two adult women sitting closely at a small wooden table and smiling at one another, left woman sage overshirt and loose dark hair bun, right woman navy top and long dark hair. Preserve the Korean-style celadon ceramic teapot and two cups, tea-serving mat, inviting plant-filled apartment and warm paper lamp. Keep the expressive polished illustrated look of this reference: finely drawn clean lines, detailed textured painting, natural faces and hands, sophisticated editorial lifestyle illustration. Reconstruct lost detail, absolutely no pixelated texture. Single full-bleed portrait 1536 by 2048 pixels or higher. Place the two women close together centrally, their faces, hands, teapot and cups visible, with room for portrait and wider website crops. Remove white margin, arrow at the left, rounded frame, collage seams, and source-panel remnants. No text, symbols, logos, watermark."
+    },
+    {
+      "routine": "evening",
+      "prompt": "Recreate this softly lit evening bathroom scene as a high-resolution editorial lifestyle image for the Million Routines website. Preserve the adult woman with dark curly hair in a relaxed bun wearing a lavender textured bathrobe, standing beside a wooden bathroom vanity and lowering the light using a small control, warm wall lamp, visible shower entrance, green plant and simple skincare containers. Keep clothing fully opaque, natural face and anatomically realistic hands. The bathroom is softly lit and the floor and controls remain clearly visible. Match the warm amber, lavender, cream and wood palette, the reference’s calm intimate mood and subtle painterly photographic finish, but render crisp detailed robe fabric, wood grain, ceramic surfaces and hair without blur or blocky pixels. Reconstruct detail faithfully. Single full-bleed portrait 1536 by 2048 pixels or higher with comfortable headroom and centered subject suitable for responsive crops. Remove source cream borders, gutters, adjacent panels and rounded framing. No text, logos, watermark, arrows, collage."
+    }
+  ],
+  "storyboards": [
+    {
+      "routine": "morning",
+      "prompt": "Restore the supplied morning routine storyboard as a sharp high-resolution website illustration, keeping its four equal side-by-side panels and the same left-to-right story: opening curtains to natural daylight; whisking matcha; writing an intention in a notebook; enjoying a quiet cup. Image 1 is the storyboard edit target. Image 2 is the high-resolution character, lighting and material reference; match her sage overshirt, cream top, dark curly bun, face and warm sunlit apartment. Preserve the original realistic editorial image style. Reconstruct fine details of skin, hair, cloth, whisk and ceramics; no blur, pixel blocks, oversharpening or compression artifacts. Wide landscape, approximately 3072 x 1728 or highest supported native resolution. Use narrow cream gutters and a minimal outer margin, each scene clearly visible. No labels, text, arrows, logos or watermarks. Fully clothed adult subject."
+    },
+    {
+      "routine": "connection",
+      "prompt": "Restore the supplied Korean tea sharing storyboard as a crisp high-resolution website illustration while preserving its four equal side-by-side panels and sequence: warmly inviting a friend at a wooden table; adding loose leaf tea to a ceramic teapot; pouring two cups; sitting together with tea and conversation. Image 1 is the storyboard edit target. Image 2 provides the matching high-resolution illustrated adult characters: left woman in sage green overshirt and loose dark bun, right woman in navy top and long dark hair. Keep the refined illustrated editorial style, warm plant-filled apartment and celadon ceramic vessels. Reconstruct clean detailed linework, expressive faces, anatomically natural hands, ceramic texture and tea leaves without pixelation, blur or artifacts. Wide landscape approximately 3072 x 1728 or highest native resolution. Narrow cream gutters and minimal outer margin. No labels, typography, arrows, symbols, logos or watermarks."
+    },
+    {
+      "routine": "evening",
+      "prompt": "Restore the supplied evening routine storyboard at sharp high resolution, keeping five equal side-by-side panels and its exact left-to-right sequence: adult woman in lavender bathrobe lowering bathroom lights; empty safely illuminated warm shower with visible floor; fully robed woman gently applying scrub to forearm at vanity; applying a facial skincare mask while fully clothed; relaxed breathing while seated in lavender robe with a blank notebook. Image 1 is storyboard edit target; image 2 supplies high-resolution character, material and lighting reference. Preserve her dark curly bun, lavender robe, warm amber bathroom, visible floor and controls. No nudity or person in the shower. Render refined natural editorial imagery, crisp fabric weave, faces, hands and objects; no pixelation, blur or artifacts. Wide landscape approximately 3072 x 1728 or highest supported native resolution. Narrow cream gutters, minimal outer margin, no text, lettering, icons, arrows, logos or watermarks."
+    }
+  ],
+  "delivery": "Versioned responsive WebP assets in public/images; original generated PNG masters retained in the workspace image-masters folder."
+}
