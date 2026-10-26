@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 
 export default function RitualPage(){return <>
  <a className="skip" href="#main">Skip to content</a>
- <div id="top" className="announcement"><span>Our first chapter: a Korean tea ritual.</span><a href="/#join">Join the first release ↗</a></div>
  <SiteHeader ritual/>
  <main id="main" className="editorial-page">
  <section className="editorial-hero section-wrap">
