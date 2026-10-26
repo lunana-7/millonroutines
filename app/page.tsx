@@ -15,7 +15,7 @@ const faqs = [
 ];
 function RoutineImage({routine,story=false,...props}:React.ImgHTMLAttributes<HTMLImageElement>&{routine:string;story?:boolean}){const widths=story?[960,1672]:[480,768,1086];const base=`/images/${routine}${story?"-story":""}-hd`;return <img {...props} src={`${base}-${widths[widths.length-1]}.webp`} srcSet={widths.map(width=>`${base}-${width}.webp ${width}w`).join(", ")} width={story?1672:1086} height={story?941:1448}/>;}
 function Arrow(){return <span aria-hidden="true">↗</span>}
-function Mark(){return <svg className="brand-mark" viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="M8 27V16c0-8 11-8 11 0v11m0-11c0-8 12-8 12 0v11M8 22h23" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/><circle cx="20" cy="7" r="2" fill="currentColor"/></svg>}
+function Mark(){return <img className="brand-mark" src="/brand/million-routines-logo-160.webp" srcSet="/brand/million-routines-logo-160.webp 160w, /brand/million-routines-logo-320.webp 320w" sizes="(max-width:760px) 43px, 55px" width={276} height={320} alt=""/>;}
 function Brand(){return <a href="#" className="brand" aria-label="Million Routines home"><Mark/><span>million<span className="brand-light">routines</span><small>SMALL MOMENTS. MEANINGFULLY MADE.</small></span></a>}
 function Evidence({routine:r}:{routine:typeof routines[number]}){return <div className="evidence-detail"><p>{r.evidence}</p><p>{r.context}</p>{r.sources.map(s=><a href={s.url} target="_blank" rel="noopener noreferrer" key={s.url}>{s.title} ↗</a>)}</div>}
 export default function Home(){
