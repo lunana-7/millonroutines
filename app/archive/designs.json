@@ -1,5 +1,35 @@
 [
   {
+    "id": "nacre-pour-ready-v2",
+    "title": "Tea into light · porcelain & ink landscape v2",
+    "category": "Illustration",
+    "stage": "13 · Tea into light",
+    "src": "/archive/nacre-pour/ready-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital art with sculptural ceramics, ink-wash mountains and an imagined tea-to-nacre transformation."
+  },
+  {
+    "id": "nacre-pour-pearl-v2",
+    "title": "Tea into light · nacre transformation v2",
+    "category": "Illustration",
+    "stage": "13 · Tea into light",
+    "src": "/archive/nacre-pour/pearl-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital art with sculptural ceramics, ink-wash mountains and an imagined tea-to-nacre transformation."
+  },
+  {
+    "id": "nacre-pour-earlier-v1",
+    "title": "Tea into light · earlier vector scene v1",
+    "category": "Illustration",
+    "stage": "13 · Tea into light",
+    "src": "/archive/nacre-pour/earlier-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier interactive vector composition, preserved before the new dimensional illustration."
+  },
+  {
     "id": "white-edition-v2-bundle",
     "title": "White · Version 2 / complete bundle",
     "category": "Packaging",

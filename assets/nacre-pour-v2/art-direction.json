@@ -1,0 +1,16 @@
+{
+  "mode": "built-in image_gen",
+  "readyPrompt": "Use case: product-mockup / stylized-concept. Create one refined, high-resolution WIDE landscape original illustration for a premium contemporary Korean tea brand website. A sophisticated blend of sculptural 3D ceramic rendering and traditional Korean sumukhwa ink wash on warm ivory hanji paper. Scene: a restrained softly rounded WHITE PORCELAIN Korean side-handle teapot on the left, its spout pointing down and right towards one pale CELADON handleless teacup on the right. The teapot is gently poised to pour but NO liquid stream yet. The cup contains quiet transparent pale golden-green tea with a clear elliptical surface visible from a slightly elevated three-quarter viewpoint. Composition critical: teapot body centered around 32% width, 44% height; spout tip around 48% width 37% height; teacup centered at 72% width 68% height, ellipse surface center around 72% width 57% height; teapot and cup fully visible with generous margins and refined asymmetry. Soft recessed foot, beautifully thin rims, credible tactile ceramic glaze and dimensional shadows; very small black five-rounded-petal outline flower mark with a center dot on exterior fronts, simple brand motif. Background: delicate misty layered Korean mountains in very pale gray-green ink wash, a faint distant moon and sparse plum twig entering upper left. Elegant empty space, poetic editorial art, nuanced materials, subtle ivory-to-celadon palette, soft natural side lighting. No people, no text, no letters, no typography, no border, no UI, no labels, no floating glitter. Avoid flat vector shapes, cartoon outlines, fuzzy gradients, oversized logos, Japanese matcha utensils. The tea surface is NORMAL LIQUID in this first image, not nacre yet. Wide 16:9 landscape.",
+  "pearlPrompt": "Use case: precise-object-edit. This supplied image is the edit target and must remain compositionally identical for a website before/after animation. Change ONLY the LIQUID SURFACE INSIDE THE CELADON CUP on the right. Transform that visible elliptical liquid surface into a magical deep-black lacquer-like pool containing intricate Korean najeon mother-of-pearl inlay: delicate silver-white plum blossoms on a fine branch, a few subtle petal fragments and fine flowing landscape lines, softly iridescent pale celadon, pearl pink and blue highlights. All shell motifs contained inside the existing liquid ellipse, not protruding out. Retain a thin realistic liquid reflection along the rim. Make it elegant, artisanal, luminous but restrained, highly detailed enough to read on a website. CRITICAL INVARIANTS: keep the cup shape, cup body glaze, cup flower emblem, teapot, teapot emblem, mountains, moon, plum tree, rocks, lighting, camera framing, exact output dimensions and all object positions IDENTICAL. No new stream, no text, no added objects, no camera movement, no rearrangement, no other edits. This is the final transformed state of the same scene, not a new composition.",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "interactiveSurface": {
+    "cx": 1170,
+    "cy": 607,
+    "rx": 158,
+    "ry": 42
+  },
+  "note": "Original contemporary digital artwork. Nacre transformation is an imagined visual effect."
+}
