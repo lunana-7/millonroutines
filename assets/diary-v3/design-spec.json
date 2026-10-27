@@ -1,0 +1,23 @@
+{
+  "edition": "Illustrated Tea Diary v3",
+  "format": "A6",
+  "pages": 96,
+  "entries": 30,
+  "added_pages": 16,
+  "teas": [
+    "Nokcha / green leaf tea",
+    "Balhyocha / oxidized leaf tea",
+    "Boricha / roasted barley infusion",
+    "Yujacha / citron preserve drink"
+  ],
+  "artwork": "Original vector botanical and porcelain illustrations drawn in the PDF generator; celadon, warm ivory, muted tea colors and five-petal nacre-color accents.",
+  "retained_cover": "Black cloth hardcover concept v2",
+  "previous_pdf": "/archive/diary-v2/Charim-A-Tea-Diary-80-pages.pdf",
+  "preparation": "Maker instructions take priority. Leaf, grain and fruit preparations are distinguished.",
+  "sources": [
+    "https://pure.ewha.ac.kr/en/publications/development-of-sample-preparation-presentation-procedure-and-sens/",
+    "https://hadong.grandculture.net/hadong/toc/GC03400755",
+    "https://koreantk.com/ktkp2014/food/food-view.view?foodCd=TF10003220",
+    "https://www.maangchi.com/recipe/yujacha"
+  ]
+}

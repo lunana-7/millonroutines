@@ -1,5 +1,25 @@
 [
   {
+    "id": "diary-illustrated-v3",
+    "title": "Tea Diary · illustrated tea atlas v3",
+    "category": "Tea Diary",
+    "stage": "11 · Illustrated tea diary",
+    "src": "/diary/tea-atlas-v3.png",
+    "dark": false,
+    "current": true,
+    "note": "96-page illustrated edition: four tea portraits, preparation drawings and thirty undated entries."
+  },
+  {
+    "id": "diary-interior-v2",
+    "title": "Tea Diary · earlier 80-page interior",
+    "category": "Tea Diary",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/diary-v2/entry-spread.png",
+    "dark": false,
+    "current": false,
+    "note": "Earlier 80-page interior, before the illustrated tea atlas. Preserved as part of the design process."
+  },
+  {
     "id": "korean-aesthetic-v4-nacre-moonjar-landscape-v4",
     "title": "Nacre, moon jar & mountain landscape v4",
     "category": "Illustration",
