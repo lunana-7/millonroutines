@@ -1,0 +1,32 @@
+{
+  "dasinjeon-pages": {
+    "src": "/history/dasinjeon-pages.webp",
+    "width": 1200,
+    "height": 1106
+  },
+  "dasinjeon-cover": {
+    "src": "/history/dasinjeon-cover.webp",
+    "width": 746,
+    "height": 1200
+  },
+  "dongdasong-pages": {
+    "src": "/history/dongdasong-pages.webp",
+    "width": 734,
+    "height": 1200
+  },
+  "dongdasong-cover": {
+    "src": "/history/dongdasong-cover.webp",
+    "width": 750,
+    "height": 1200
+  },
+  "tea-picking": {
+    "src": "/history/tea-picking.webp",
+    "width": 1200,
+    "height": 804
+  },
+  "tea-brewing": {
+    "src": "/history/tea-brewing.webp",
+    "width": 1200,
+    "height": 799
+  }
+}
