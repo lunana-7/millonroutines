@@ -1,5 +1,25 @@
 [
   {
+    "id": "white-edition-v2-bundle",
+    "title": "White · Version 2 / complete bundle",
+    "category": "Packaging",
+    "stage": "12 · Black & White editions",
+    "src": "/images/charim-bundle-v1-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "The earlier white design, restored as White Version 2 with the current Charim name. Black flower mark, white box, black nacre-floral details and celadon accents."
+  },
+  {
+    "id": "white-edition-v2-box",
+    "title": "White · Version 2 / closed gift box",
+    "category": "Packaging",
+    "stage": "12 · Black & White editions",
+    "src": "/images/charim-box-v1-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "The earlier white design, restored as White Version 2 with the current Charim name. Black flower mark, white box, black nacre-floral details and celadon accents."
+  },
+  {
     "id": "diary-illustrated-v3",
     "title": "Tea Diary · illustrated tea atlas v3",
     "category": "Tea Diary",
