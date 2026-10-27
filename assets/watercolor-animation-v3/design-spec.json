@@ -1,0 +1,12 @@
+{
+  "title": "Water finds its way",
+  "version": 3,
+  "durationMs": 11200,
+  "medium": "Original procedural canvas watercolor animation",
+  "sequence": ["Teapot tilts", "Water column and droplets fall", "Ripples spread", "Persistent pigment field advects and diffuses", "Capillary stains spread onto paper", "Pearl-colored floral and landscape strokes grow"],
+  "rendererSource": "app/components/watercolor-scene.js",
+  "standaloneRendererCopy": "public/art/tea-watercolor-v3.js",
+  "standalonePage": "/art/tea-watercolor-v3.html",
+  "accessibility": "Reduced-motion preference renders the completed painting without playing the sequence; replay and disposal are supported.",
+  "note": "Watercolor-inspired artistic simulation, not a physically exact fluid model. No raster image crossfade is used. Keep the standalone renderer copy synchronized with the app renderer."
+}
