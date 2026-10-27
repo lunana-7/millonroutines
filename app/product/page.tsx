@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import ProductView from "./product-view";
 export const metadata: Metadata = {
  title: "차림 · Charim — The Korean Tea Ritual | Million Routines",
- description: "Explore Charim, our first Korean tea bundle: a baekja-white and celadon cup pair, minimal flower details, black nacre-printed packaging, an embroidered handkerchief and the complete design concept.",
+ description: "Explore Charim’s Korean green tea direction, illustrated brewing guide, ceramic and embroidery design, nacre-print packaging, source-backed diary origins and maker research.",
  alternates: { canonical: "/product" },
 };
 export default function ProductPage(){return <ProductView/>}
