@@ -1,5 +1,35 @@
 [
   {
+    "id": "comic-maker-01",
+    "title": "Before the First Pour · clay & shaping",
+    "category": "Stories",
+    "stage": "18 · The hands behind the cup",
+    "src": "/archive/comics-maker-v1/comic-maker-01.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original fictional maker comic. Haein and her workshop are invented; the ceramic process and finished cups are illustrative concepts, not a record of an appointed manufacturer."
+  },
+  {
+    "id": "comic-maker-02",
+    "title": "Before the First Pour · the small decisions",
+    "category": "Stories",
+    "stage": "18 · The hands behind the cup",
+    "src": "/archive/comics-maker-v1/comic-maker-02.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original fictional maker comic. Haein and her workshop are invented; the ceramic process and finished cups are illustrative concepts, not a record of an appointed manufacturer."
+  },
+  {
+    "id": "comic-maker-03",
+    "title": "Before the First Pour · after the wait",
+    "category": "Stories",
+    "stage": "18 · The hands behind the cup",
+    "src": "/archive/comics-maker-v1/comic-maker-03.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original fictional maker comic. Haein and her workshop are invented; the ceramic process and finished cups are illustrative concepts, not a record of an appointed manufacturer."
+  },
+  {
     "id": "cup-details-v2-flower",
     "title": "Charim cup · flower & glaze",
     "category": "Packaging",

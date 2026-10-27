@@ -1,0 +1,26 @@
+{
+  "mode": "Built-in image_gen",
+  "kind": "illustration-story",
+  "title": "Before the First Pour",
+  "version": 1,
+  "references": [
+    "assets/comics/one-more-cup-01.png (style only, page 1)",
+    "assets/cup-details-v2/cup-interior-v2.png (product direction)",
+    "assets/comics-maker-v1/comic-maker-01.png (character and workshop continuity, pages 2–3)"
+  ],
+  "prompts": [
+    {
+      "page": 1,
+      "prompt": "Use case: illustration-story. Create page 1 of a new original six-panel Korean craft comic, \"Before the First Pour\", for a premium tea brand. Portrait page, TWO wide horizontal narrative panels stacked with a slim clean white gutter, no other borders. No text, no letters, no speech bubbles, no watermarks. Reference 1 is only visual rendering reference (elegant Korean illustrated characters, fine ink contours, luminous detailed shading); reference 2 is product silhouette reference for the finished cups later in the story, not a cup to show finished yet. New protagonist, NOT the people in reference 1: a Korean woman potter in her early thirties, straight black hair tied in a low practical bun with side part, warm almond eyes, simple ivory collarless linen work blouse, sleeves rolled to forearms, black apron, no jewelry. Modern Korean pottery studio in a renovated modest hanok workshop: white plaster, understated timber lattice, quiet shelves, clean workbench, no palace luxury. Restrained white, ink black, pale celadon palette, subtle clay gray, natural daylight. Adult, thoughtful, focused. TOP PANEL medium wide view: she wedges a pale gray clay lump firmly on a workbench, a simple pencil cup profile sketch and two celadon glaze test tiles to one side; sleeves rolled, correct two hands pressing clay, no finished cups. BOTTOM PANEL intimate close view: the same potter's two wet hands shaping a small rounded handleless cup on a pottery wheel, damp clay gray, open circular mouth with a softly rounded wall, delicate concentric wheel rings, her calm focused face visible behind the hands, composition makes the clay the hero. A craft-centered narrative, patient and human, exceptionally polished original Korean graphic novel illustration, dimensional ceramics, contemporary graphic restraint. Avoid sepia paper, ornate frames, magical effects, upper-class costumes, photographic people, giant bowl, extra fingers, porcelain gloss on wet raw clay. The forming cup is a small tea cup, not a teapot.",
+      "source": "comic-maker-01.png"
+    },
+    {
+      "page": 2,
+      "source": "comic-maker-02.png"
+    },
+    {
+      "page": 3,
+      "source": "comic-maker-03.png"
+    }
+  ]
+}
