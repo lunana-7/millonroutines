@@ -1,5 +1,35 @@
 [
   {
+    "id": "cup-details-v2-flower",
+    "title": "Charim cup · flower & glaze",
+    "category": "Packaging",
+    "stage": "17 · A closer look at the cups",
+    "src": "/archive/cup-details-v2/flower-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Digital concept detail based on the original white and celadon cup pair. Proposed features, not photographs of manufactured cups; maker and final specifications are still to be confirmed."
+  },
+  {
+    "id": "cup-details-v2-foot",
+    "title": "Charim cup · foot & pearl line",
+    "category": "Packaging",
+    "stage": "17 · A closer look at the cups",
+    "src": "/archive/cup-details-v2/foot-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Digital concept detail based on the original white and celadon cup pair. Proposed features, not photographs of manufactured cups; maker and final specifications are still to be confirmed."
+  },
+  {
+    "id": "cup-details-v2-interior",
+    "title": "Charim cup · interior & rim",
+    "category": "Packaging",
+    "stage": "17 · A closer look at the cups",
+    "src": "/archive/cup-details-v2/interior-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Digital concept detail based on the original white and celadon cup pair. Proposed features, not photographs of manufactured cups; maker and final specifications are still to be confirmed."
+  },
+  {
     "id": "modern-restoration-v1",
     "title": "White, Black & Celadon · modern restoration",
     "category": "Identity",

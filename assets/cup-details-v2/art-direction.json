@@ -1,0 +1,21 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "assets/product/cups-master-v1.png",
+  "images": [
+    {
+      "id": "interior",
+      "prompt": "Use case: product-mockup / precise-object-edit. The attached image is the identity and product design reference. Create ONE high-resolution square detailed concept product photo of these same Charim tea cups, with EXACT same gently rounded handleless silhouettes, smooth glossy baekja-white cup and pale celadon cup, plain white interiors, small black five-rounded-petal flower outline with center dot on the exterior low front, and a very thin restrained nacre-inspired exterior accent just above the foot. Contemporary minimal Korean design. Pure clean white studio background, pale celadon cloth only if needed subtly in the far background, soft neutral daylight, no warm yellow paper or landscape or decorative objects, no text, dimensions, arrows, watermarks or labels. These are product concept details, not historical antiques. Camera: close overhead three-quarter view of both cups, EMPTY and clean, focus on the smooth light interiors and gracefully rounded drinking rims, enough of the exterior sides to identify the white and celadon colors. No tea liquid. Both cups fully framed, beautiful realistic ceramic glaze. Preserve proportions from the reference; no invented patterns on interiors.",
+      "master": "cup-interior-v2.png"
+    },
+    {
+      "id": "foot",
+      "prompt": "Use case: product-mockup / precise-object-edit. The attached image is the identity and product design reference. Create ONE high-resolution square detailed concept product photo of these same Charim tea cups, with EXACT same gently rounded handleless silhouettes, smooth glossy baekja-white cup and pale celadon cup, plain white interiors, small black five-rounded-petal flower outline with center dot on the exterior low front, and a very thin restrained nacre-inspired exterior accent just above the foot. Contemporary minimal Korean design. Pure clean white studio background, pale celadon cloth only if needed subtly in the far background, soft neutral daylight, no warm yellow paper or landscape or decorative objects, no text, dimensions, arrows, watermarks or labels. These are product concept details, not historical antiques. Camera: low three-quarter macro close-up of the LOWER EXTERIOR bodies of both cups and their small circular feet, elegantly upright on white surface. Focus on the very narrow nacre-inspired decorative line directly ABOVE the foot and the clean transition to a simple undecorated ceramic base. Keep the pearl band thin and discreet, not metallic gold. The reference silhouette remains identical; the cup rim may leave the top of the close crop. No maker stamp or invented production marks.",
+      "master": "cup-foot-v2.png"
+    },
+    {
+      "id": "flower",
+      "prompt": "Use case: product-mockup / precise-object-edit. The attached image is the identity and product design reference. Create ONE high-resolution square detailed concept product photo of these same Charim tea cups, with EXACT same gently rounded handleless silhouettes, smooth glossy baekja-white cup and pale celadon cup, plain white interiors, small black five-rounded-petal flower outline with center dot on the exterior low front, and a very thin restrained nacre-inspired exterior accent just above the foot. Contemporary minimal Korean design. Pure clean white studio background, pale celadon cloth only if needed subtly in the far background, soft neutral daylight, no warm yellow paper or landscape or decorative objects, no text, dimensions, arrows, watermarks or labels. These are product concept details, not historical antiques. Camera: a refined close-up of the pale celadon cup's exterior flower mark and glossy curved glaze. Show the small exact same black outline five-rounded-petal flower with one central dot, faithfully based on the reference. The cup fills much of frame with the lower foot accent barely present. The white companion cup softly out of focus in the background. Minimal, cool clean modern product imagery. No extra flower illustration, no altered logo, no decorative text.",
+      "master": "cup-flower-v2.png"
+    }
+  ]
+}
