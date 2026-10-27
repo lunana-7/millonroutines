@@ -10,7 +10,7 @@ const items = [
  ["02","A small teapot","An ivory porcelain side-handle form, considered for everyday brewing."],
  ["03","Two tea cups","Small, handleless porcelain cups. One for you; one for a little company."],
  ["04","A cooling bowl","A pouring vessel to help adjust water temperature before brewing delicate leaves."],
- ["05","A cloth & tray","A bojagi-inspired wrapping cloth and a compact wooden tray to set your tea place."],
+ ["05","A handkerchief & tray","A celadon handkerchief with an embroidered flower logo and a compact wooden tray to set your tea place."],
  ["06","Your ritual guide","An illustrated English-language sequence with Korean terms, tea guidance and a conversation prompt."],
 ];
 

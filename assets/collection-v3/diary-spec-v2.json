@@ -1,0 +1,92 @@
+{
+  "name": "Charim — A Tea Diary",
+  "status": "Contemporary standalone companion; physical production and price unconfirmed",
+  "formatMm": [
+    105,
+    148
+  ],
+  "interiorPages": 80,
+  "entries": 30,
+  "entryStartPages": [
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48,
+    52,
+    54,
+    56,
+    58,
+    60,
+    62,
+    64,
+    66,
+    68,
+    70
+  ],
+  "reflectionSpreads": [
+    [
+      28,
+      29
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      72,
+      73
+    ]
+  ],
+  "messageLeaves": [
+    [
+      74,
+      75
+    ],
+    [
+      76,
+      77
+    ]
+  ],
+  "historyPages": [
+    3,
+    4,
+    5
+  ],
+  "sourcesPage": 78,
+  "binding": "Proposed sewn case binding with rigid cloth-wrapped boards",
+  "cover": "Ink-black cloth, hanji-style vertical title slip, nacre-inspired printed outline flower",
+  "packaging": "Black sleeve with nacre-inspired printed flower",
+  "purchase": "Standalone companion or optional add-on with Charim at launch",
+  "sources": [
+    "https://contents.history.go.kr/mobile/km/view.do?levelId=km_010_0070_0040_0010",
+    "https://encykorea.aks.ac.kr/Article/E0013480",
+    "https://www.nfm.go.kr/user/museumbbs/home/3/1274/selectMuseumBbsView.do?museumBbsIdx=10571&page=1&row=12"
+  ],
+  "historicalScope": "Tea writings, sensory subjects and correspondence support the interpretation. The 30-entry diary is a new design, not a historical diary reproduction.",
+  "revision": "Hardcover v2",
+  "accessories": [
+    "removable celadon band",
+    "two ribbon bookmarks",
+    "blank index tabs",
+    "name card",
+    "flower seal stickers",
+    "detachable flower bookmark charm concept"
+  ],
+  "note": "Joseon-inspired visual restraint; a new contemporary design, not a reproduction. Final production and accessory contents unconfirmed."
+}

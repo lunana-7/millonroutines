@@ -1,0 +1,492 @@
+[
+  {
+    "id": "collection-v3-black-nacre-packaging-v3",
+    "title": "Black box & nacre tea pouch v3",
+    "category": "Packaging",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/collection-v3/black-nacre-packaging-v3.webp",
+    "dark": false,
+    "current": true,
+    "note": "Current concept direction. Final materials and specifications are in development."
+  },
+  {
+    "id": "Black tea label · print artwork v3",
+    "title": "Black tea label · print artwork v3",
+    "category": "Packaging",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/product-designs/charim-tea-label-front-v3.svg",
+    "dark": false,
+    "current": true,
+    "note": "Current flat artwork. Printed nacre appearance is a proposed effect, not real shell inlay."
+  },
+  {
+    "id": "collection-v3-black-bundle-v3",
+    "title": "Complete black bundle v3",
+    "category": "Packaging",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/collection-v3/black-bundle-v3.webp",
+    "dark": false,
+    "current": true,
+    "note": "Current concept direction. Final materials and specifications are in development."
+  },
+  {
+    "id": "Flower · nacre print artwork v3",
+    "title": "Flower · nacre print artwork v3",
+    "category": "Identity",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/brand/flower-logo-nacre-v3.svg",
+    "dark": true,
+    "current": true,
+    "note": "Current flat artwork. Printed nacre appearance is a proposed effect, not real shell inlay."
+  },
+  {
+    "id": "collection-v3-embroidered-cloth-v1",
+    "title": "Flower embroidery · handkerchief v1",
+    "category": "Packaging",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/collection-v3/embroidered-cloth-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Current concept direction. Final materials and specifications are in development."
+  },
+  {
+    "id": "collection-v3-diary-hardcover-v2",
+    "title": "Tea Diary · black hardcover v2",
+    "category": "Tea Diary",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/collection-v3/diary-hardcover-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Current concept direction. Final materials and specifications are in development."
+  },
+  {
+    "id": "Tea Diary · hardcover front artwork v2",
+    "title": "Tea Diary · hardcover front artwork v2",
+    "category": "Tea Diary",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/diary/cover-front-v2.svg",
+    "dark": false,
+    "current": true,
+    "note": "Current flat artwork. Printed nacre appearance is a proposed effect, not real shell inlay."
+  },
+  {
+    "id": "collection-v3-diary-open-v2",
+    "title": "Tea Diary · hardcover interior v2",
+    "category": "Tea Diary",
+    "stage": "08 · Black, nacre & embroidery",
+    "src": "/archive/collection-v3/diary-open-v2.webp",
+    "dark": false,
+    "current": true,
+    "note": "Current concept direction. Final materials and specifications are in development."
+  },
+  {
+    "id": "brand-v2-tea-story-master-v3",
+    "title": "Modern hanbok illustration v3",
+    "category": "Illustration",
+    "stage": "07 · Modern hanbok & ink",
+    "src": "/archive/brand-v2/tea-story-master-v3.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-cover-back",
+    "title": "Cover Back",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/cover-back.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-cover-front",
+    "title": "Cover Front",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/cover-front.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-kit-companion-insert",
+    "title": "Kit Companion Insert",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/kit-companion-insert.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-paper-band",
+    "title": "Paper Band",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/paper-band.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-cover-mockup-v1",
+    "title": "Tea Diary · celadon cover v1",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/cover-mockup-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "diary-open-mockup-v1",
+    "title": "Tea Diary · first interior mockup",
+    "category": "Tea Diary",
+    "stage": "06 · The first tea diary",
+    "src": "/archive/diary/open-mockup-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "charim-charim-box-master-v1",
+    "title": "Charim Box Master V1",
+    "category": "Packaging",
+    "stage": "05 · Named Charim",
+    "src": "/archive/charim/charim-box-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "charim-charim-bundle-master-v1",
+    "title": "Charim Bundle Master V1",
+    "category": "Packaging",
+    "stage": "05 · Named Charim",
+    "src": "/archive/charim/charim-bundle-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "charim-charim-conversation-card-v1",
+    "title": "Charim Conversation Card V1",
+    "category": "Packaging",
+    "stage": "05 · Named Charim",
+    "src": "/archive/charim/charim-conversation-card-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "charim-charim-ritual-guide-v1",
+    "title": "Charim Ritual Guide V1",
+    "category": "Packaging",
+    "stage": "05 · Named Charim",
+    "src": "/archive/charim/charim-ritual-guide-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "charim-charim-tea-label-front-v1",
+    "title": "Charim Tea Label Front V1",
+    "category": "Packaging",
+    "stage": "05 · Named Charim",
+    "src": "/archive/charim/charim-tea-label-front-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "product-box-master-v1",
+    "title": "Box Master V1",
+    "category": "Packaging",
+    "stage": "04 · The cup pair",
+    "src": "/archive/product/box-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "product-bundle-master-v1",
+    "title": "Bundle Master V1",
+    "category": "Packaging",
+    "stage": "04 · The cup pair",
+    "src": "/archive/product/bundle-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "product-cups-master-v1",
+    "title": "Cups Master V1",
+    "category": "Packaging",
+    "stage": "04 · The cup pair",
+    "src": "/archive/product/cups-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-packaging-concept-v2",
+    "title": "Black, white & celadon packaging v2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/packaging-concept-v2.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-brand-board-v2",
+    "title": "Brand Board V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/brand-board-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-tea-story-master-v2",
+    "title": "Celadon tea illustration v2",
+    "category": "Illustration",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/tea-story-master-v2.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-conversation-card-v2",
+    "title": "Conversation Card V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/conversation-card-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-flower-logo-pearl-v2",
+    "title": "Flower · pearl-on-black study",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/flower-logo-pearl-v2.svg",
+    "dark": true,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-flower-logo-celadon-v2",
+    "title": "Flower Logo Celadon V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/flower-logo-celadon-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-flower-logo-white-v2",
+    "title": "Flower Logo White V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/flower-logo-white-v2.svg",
+    "dark": true,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-flower-logo-v2",
+    "title": "Minimal flower logo v2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/flower-logo-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-ritual-guide-v2",
+    "title": "Ritual Guide V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/ritual-guide-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-tea-label-front-v2",
+    "title": "Tea Label Front V2",
+    "category": "Identity",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/tea-label-front-v2.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "brand-v2-tea-hero-master-v2",
+    "title": "White & celadon tea setting v2",
+    "category": "Illustration",
+    "stage": "03 · Flower, white & celadon",
+    "src": "/archive/brand-v2/tea-hero-master-v2.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "korean-tea-najeon-master-v1",
+    "title": "Najeon Master V1",
+    "category": "Illustration",
+    "stage": "02 · Korean tea world",
+    "src": "/archive/korean-tea/najeon-master-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "korean-tea-story-master",
+    "title": "Original plum tea illustration v1",
+    "category": "Illustration",
+    "stage": "02 · Korean tea world",
+    "src": "/archive/korean-tea/story-master.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "korean-tea-hero-master",
+    "title": "Original plum tea setting v1",
+    "category": "Illustration",
+    "stage": "02 · Korean tea world",
+    "src": "/archive/korean-tea/hero-master.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "packaging-conversation-card-v1",
+    "title": "Conversation Card V1",
+    "category": "Packaging",
+    "stage": "01 · Early tea ritual",
+    "src": "/archive/packaging/conversation-card-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Early concept. Includes the former product name and earlier palette."
+  },
+  {
+    "id": "packaging-interior-contents-concept-v1",
+    "title": "First complete bundle · plum & ivory",
+    "category": "Packaging",
+    "stage": "01 · Early tea ritual",
+    "src": "/archive/packaging/interior-contents-concept-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Early concept. Includes the former product name and earlier palette."
+  },
+  {
+    "id": "packaging-exterior-concept-v1",
+    "title": "First gift box · plum & ivory",
+    "category": "Packaging",
+    "stage": "01 · Early tea ritual",
+    "src": "/archive/packaging/exterior-concept-v1.webp",
+    "dark": false,
+    "current": false,
+    "note": "Early concept. Includes the former product name and earlier palette."
+  },
+  {
+    "id": "packaging-ritual-guide-v1",
+    "title": "Ritual Guide V1",
+    "category": "Packaging",
+    "stage": "01 · Early tea ritual",
+    "src": "/archive/packaging/ritual-guide-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Early concept. Includes the former product name and earlier palette."
+  },
+  {
+    "id": "packaging-tea-label-front-v1",
+    "title": "Tea Label Front V1",
+    "category": "Packaging",
+    "stage": "01 · Early tea ritual",
+    "src": "/archive/packaging/tea-label-front-v1.svg",
+    "dark": false,
+    "current": false,
+    "note": "Early concept. Includes the former product name and earlier palette."
+  },
+  {
+    "id": "connection-concept",
+    "title": "Connection routine · concept",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/connection-hd-1086.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "connection-story",
+    "title": "Connection routine · story",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/connection-story-hd-1672.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "evening-concept",
+    "title": "Evening routine · concept",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/evening-hd-1086.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "evening-story",
+    "title": "Evening routine · story",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/evening-story-hd-1672.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "morning-concept",
+    "title": "Morning routine · concept",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/morning-hd-1086.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "morning-story",
+    "title": "Morning routine · story",
+    "category": "Illustration",
+    "stage": "00 · The beginning",
+    "src": "/images/morning-story-hd-1672.webp",
+    "dark": false,
+    "current": false,
+    "note": "An early multi-routine direction, before the focus on one Korean tea bundle."
+  },
+  {
+    "id": "original-logo",
+    "title": "Original botanical logo",
+    "category": "Identity",
+    "stage": "00 · The beginning",
+    "src": "/brand/million-routines-original.png",
+    "dark": false,
+    "current": false,
+    "note": "The original supplied leaf-and-bowl identity, before the minimal flower."
+  }
+]
