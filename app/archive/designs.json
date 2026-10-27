@@ -1,5 +1,55 @@
 [
   {
+    "id": "four-collections-v1-01-yeobaek",
+    "title": "01 · Yeobaek / 여백",
+    "category": "Collections",
+    "stage": "20 · Four complete collection studies",
+    "src": "/archive/four-design-collections-v1/01-yeobaek.webp",
+    "dark": false,
+    "current": false,
+    "note": "Quiet soft-white ceramics, fine celadon foot accents, a pale tray and an ivory gift box. A restrained base-line collection study. Each board includes cups, saucers, teapot, cooling bowl, tray, cloth, gift box, tea pouch, guide and cards. Digital concept; final production details remain in development."
+  },
+  {
+    "id": "four-collections-v1-02-bambit",
+    "title": "02 · Bambit / 밤빛",
+    "category": "Collections",
+    "stage": "20 · Four complete collection studies",
+    "src": "/archive/four-design-collections-v1/02-bambit.webp",
+    "dark": false,
+    "current": false,
+    "note": "Ink-black exteriors, white interiors, a dark wood tray and a nacre-floral box. A premium gifting collection study. Each board includes cups, saucers, teapot, cooling bowl, tray, cloth, gift box, tea pouch, guide and cards. Digital concept; final production details remain in development."
+  },
+  {
+    "id": "four-collections-v1-03-cheongyeon",
+    "title": "03 · Cheongyeon / 청연",
+    "category": "Collections",
+    "stage": "20 · Four complete collection studies",
+    "src": "/archive/four-design-collections-v1/03-cheongyeon.webp",
+    "dark": false,
+    "current": false,
+    "note": "Pale celadon glaze, fine vertical fluting, a light wood tray and textured celadon packaging. A study in ceramic color and texture. Each board includes cups, saucers, teapot, cooling bowl, tray, cloth, gift box, tea pouch, guide and cards. Digital concept; final production details remain in development."
+  },
+  {
+    "id": "four-collections-v1-04-seon",
+    "title": "04 · Seon / 선",
+    "category": "Collections",
+    "stage": "20 · Four complete collection studies",
+    "src": "/archive/four-design-collections-v1/04-seon.webp",
+    "dark": false,
+    "current": false,
+    "note": "Simple forms, white-and-celadon cups, black square saucers and graphic packaging lines. A contemporary object-led collection study. Each board includes cups, saucers, teapot, cooling bowl, tray, cloth, gift box, tea pouch, guide and cards. Digital concept; final production details remain in development."
+  },
+  {
+    "id": "four-collections-v1-comparison",
+    "title": "05 · Four collections together / 전체 비교",
+    "category": "Collections",
+    "stage": "20 · Four complete collection studies",
+    "src": "/archive/four-design-collections-v1/comparison.webp",
+    "dark": false,
+    "current": false,
+    "note": "Side-by-side comparison of Yeobaek, Bambit, Cheongyeon and Seon. The four full design boards are retained individually above. The optional Tea Diary remains a separate product. Original generated concept comparison."
+  },
+  {
     "id": "cup-white-original-v1",
     "title": "Charim · White cup / Original Edition",
     "category": "Packaging",
