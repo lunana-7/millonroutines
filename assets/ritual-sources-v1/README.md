@@ -25,3 +25,10 @@ The source UUIDs, original URLs, titles and credits are retained in `sources.jso
 - National Folk Museum exhibition: https://www.nfm.go.kr/user/museumbbs/home/3/1274/selectMuseumBbsView.do?museumBbsIdx=10571&page=1&row=12 — 2019 exhibition with 다신계절목 and related writings. No unlicensed exhibition photographs were reused.
 
 The Charim diary and four-step home routine are contemporary brand creations. Historical tea manuals, poems and fellowship records are presented as references rather than an antique version of the modern diary.
+
+## Tea in real life addition · 2026-10-27
+
+- KTV Korea News 1326, “전통다도”, 1981-04-02, 1:27: https://www.ehistory.go.kr/view/movie?mediadtl=21745&mediagbn=DH&mediaid=10293&mediasrcgbn=KV . Official synopsis identifies tea-association members learning tea drinking at Bongeunsa. Linked only; no footage or frames copied.
+- Haeinsa photo collection, 1987-02-15: https://www.ehistory.go.kr/view/photo?mediadtl=78867&mediaid=9836&mediasrcgbn=PT . Catalogue lists tea, meditation, calligraphy and meals. KOGL Type 4; linked only, no photographs copied to this commercial site.
+- AKS tea-brewing photograph reused in the new section with visible credit and full-size link. Visual description of seated posture, two-handed cup and low table is observation, not a claim about a dated ceremony.
+- Dasan spring/hearth/stone setting and Choui’s jungjeong summary: NIKH account already linked above. Dasinjeon topics: AKS E0013480. Historical summaries kept separate from modern recipes.
