@@ -1,5 +1,35 @@
 [
   {
+    "id": "comics-one-more-cup-03",
+    "title": "One More Cup · something worth keeping",
+    "category": "Stories",
+    "stage": "09 · One More Cup",
+    "src": "/archive/comics/one-more-cup-03.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "comics-one-more-cup-02",
+    "title": "One More Cup · the first pour",
+    "category": "Stories",
+    "stage": "09 · One More Cup",
+    "src": "/archive/comics/one-more-cup-02.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
+    "id": "comics-one-more-cup-01",
+    "title": "One More Cup · the invitation",
+    "category": "Stories",
+    "stage": "09 · One More Cup",
+    "src": "/archive/comics/one-more-cup-01.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier design study, preserved as part of the collection’s development."
+  },
+  {
     "id": "collection-v3-black-nacre-packaging-v3",
     "title": "Black box & nacre tea pouch v3",
     "category": "Packaging",
