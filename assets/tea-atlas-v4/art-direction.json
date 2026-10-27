@@ -1,0 +1,59 @@
+{
+  "mode": "built-in image_gen",
+  "images": [
+    {
+      "id": "nokcha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: NOKCHA, Korean green leaf tea. A baekja-white porcelain cup of transparent pale yellow-green tea, a few slender processed dry green tea leaves on folded hanji beside it and one small botanical Camellia sinensis sprig of pointed serrated green leaves. Fresh green restrained palette; no matcha powder, no whisk, no fruit.",
+      "master": "nokcha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "balhyocha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: BALHYOCHA, Korean oxidized leaf tea. A pale celadon porcelain cup containing transparent warm amber tea. Beside it a small loose arrangement of dark brown twisted dried tea leaves and a delicate ink botanical tea-leaf branch in muted warm brown. Rich but translucent amber, not opaque black liquid. No flowers in the drink, no berries, no honey jar.",
+      "master": "balhyocha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "boricha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: BORICHA, roasted barley infusion. A baekja-white handleless cup containing transparent golden-brown barley infusion. Beside it a small scattering of realistic plump roasted brown barley grains, a tiny white porcelain dish with more grains and one elegant barley ear with long fine awns. Toasty muted ochre palette, no green tea leaves, no berries, no tea bags.",
+      "master": "boricha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "yujacha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: YUJACHA, Korean yuja citron preserve drink. A pale celadon cup of clear golden-yellow warm citron drink with a few fine translucent strips of peel. Beside it a whole bumpy golden-yellow East Asian yuja fruit, a cut yuja half showing thick aromatic rind and a small clear preserve jar of thin yuja peel in amber syrup with a small spoon. Recognizable round bumpy yuja, not smooth elongated lemon. Bright but restrained yellow palette.",
+      "master": "yujacha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "omijacha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: OMIJACHA, Korean schisandra berry infusion. A baekja-white cup containing transparent ruby-red infusion. Beside it small slender hanging clusters of tiny round red Schisandra chinensis berries with delicate thin stems, a few dried dark-red berries on folded hanji. Small berries much smaller than grapes, restrained botanical detail, vivid but translucent crimson drink. No strawberries, cherries, hibiscus flowers or large grapes.",
+      "master": "omijacha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "daechucha",
+      "prompt": "Use case: product-mockup / stylized-concept. Create an original premium editorial still life for a contemporary Korean tea atlas, square composition, high-resolution crisp image. Refined dimensional ceramic rendering mixed with very subtle Korean ink-wash botanical painting, warm ivory hanji paper background, quiet asymmetry and generous empty space, soft daylight from the left, tactile porcelain and gentle shadows. One handleless Korean tea cup, no saucer, no Japanese matcha tools, no teapot needed, delicate restrained black five-rounded-petal outline flower with one center dot on the cup exterior. The cup in lower middle foreground, source ingredient artfully displayed beside it. Very pale celadon and baekja white palette, actual tea's color distinct and believable, shallow elliptical liquid surface clearly visible. Simple paper-and-stone setting with faint ink-wash mountain silhouettes far in the background; no large landscape competing with the tea. No text, lettering, labels, UI or watermark. The liquid is normal tea, not shell or glitter. Subject: DAECHUCHA, Korean jujube drink. A pale celadon cup containing warm translucent reddish-brown amber jujube tea with a couple thin jujube slices. Beside it three realistic dried red-brown wrinkled oval Chinese/Korean jujubes (Ziziphus jujuba), one halved to show pale flesh and elongated single stone, small botanical jujube branch. NOT elongated palm dates, no Medjool dates, no raisins, no medicinal labels.",
+      "master": "daechucha-v4.png",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}

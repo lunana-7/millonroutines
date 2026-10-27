@@ -1,5 +1,65 @@
 [
   {
+    "id": "tea-atlas-v4-nokcha",
+    "title": "Nokcha · Korean green tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/nokcha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
+    "id": "tea-atlas-v4-balhyocha",
+    "title": "Balhyocha · Korean oxidized tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/balhyocha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
+    "id": "tea-atlas-v4-boricha",
+    "title": "Boricha · roasted barley tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/boricha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
+    "id": "tea-atlas-v4-yujacha",
+    "title": "Yujacha · yuja citron tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/yujacha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
+    "id": "tea-atlas-v4-omijacha",
+    "title": "Omijacha · omija berry tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/omijacha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
+    "id": "tea-atlas-v4-daechucha",
+    "title": "Daechucha · jujube tea / tea portrait v4",
+    "category": "Illustration",
+    "stage": "14 · Six Korean cups",
+    "src": "/archive/tea-atlas-v4/daechucha-v4.webp",
+    "dark": false,
+    "current": true,
+    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+  },
+  {
     "id": "nacre-pour-ready-v2",
     "title": "Tea into light · porcelain & ink landscape v2",
     "category": "Illustration",
