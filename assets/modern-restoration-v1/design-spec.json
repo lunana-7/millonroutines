@@ -1,0 +1,13 @@
+{
+  "palette": {
+    "white": "#ffffff",
+    "black": "#111614",
+    "celadon": "#adcbbb",
+    "paleCeladon": "#e1eee7"
+  },
+  "typography": "Manrope / Noto Sans KR",
+  "direction": "Contemporary Korean product design, clean surfaces and restrained material accents.",
+  "removed": "Interactive watercolor and tea-to-nacre scenes, ornamental main-page image frame and wallpaper, decorative double rules.",
+  "editions": "White Version 2 featured by default; Black Version 1 remains selectable.",
+  "sharedStyles": "app/modern.css"
+}

@@ -1,13 +1,23 @@
 [
   {
+    "id": "modern-restoration-v1",
+    "title": "White, Black & Celadon · modern restoration",
+    "category": "Identity",
+    "stage": "16 · A modern return",
+    "src": "/archive/modern-restoration-v1/homepage-preview.webp",
+    "dark": false,
+    "current": true,
+    "note": "Clean white surfaces, ink-black type, pale celadon accents and minimal flower marks. Animation removed; Black and White editions retained."
+  },
+  {
     "id": "watercolor-animation-v3",
     "title": "Water finds its way · moving watercolor v3",
     "category": "Illustration",
     "stage": "15 · Water, pigment & light",
     "src": "/archive/watercolor-animation-v3/completed-painting-v3.webp",
     "dark": false,
-    "current": true,
-    "note": "Original approximately 11-second procedural watercolor: a tilting pot, moving water, advecting and diffusing pigment, wet paper blooms and growing pearl lines. Play it on The Ritual page."
+    "current": false,
+    "note": "Retired watercolor animation experiment. Preserved only as a still image in the design archive."
   },
   {
     "id": "tea-atlas-v4-nokcha",
@@ -76,8 +86,8 @@
     "stage": "13 · Tea into light",
     "src": "/archive/nacre-pour/ready-v2.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital art with sculptural ceramics, ink-wash mountains and an imagined tea-to-nacre transformation."
+    "current": false,
+    "note": "Earlier tea-to-nacre artwork, retained in the archive. The interactive scene has been removed from the website."
   },
   {
     "id": "nacre-pour-pearl-v2",
@@ -86,8 +96,8 @@
     "stage": "13 · Tea into light",
     "src": "/archive/nacre-pour/pearl-v2.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital art with sculptural ceramics, ink-wash mountains and an imagined tea-to-nacre transformation."
+    "current": false,
+    "note": "Earlier tea-to-nacre artwork, retained in the archive. The interactive scene has been removed from the website."
   },
   {
     "id": "nacre-pour-earlier-v1",
@@ -97,7 +107,7 @@
     "src": "/archive/nacre-pour/earlier-v1.webp",
     "dark": false,
     "current": false,
-    "note": "Earlier interactive vector composition, preserved before the new dimensional illustration."
+    "note": "Earlier tea-to-nacre artwork, retained in the archive. The interactive scene has been removed from the website."
   },
   {
     "id": "white-edition-v2-bundle",
