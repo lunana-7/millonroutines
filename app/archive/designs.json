@@ -1,5 +1,45 @@
 [
   {
+    "id": "cup-white-original-v1",
+    "title": "Charim · White cup / Original Edition",
+    "category": "Packaging",
+    "stage": "19 · Individual cups & nacre marks",
+    "src": "/archive/cup-editions-v1/cup-white-original-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Individual digital cup design concept. Original black flower or proposed nacre-look exterior flower. Maker, materials and production methods remain unconfirmed."
+  },
+  {
+    "id": "cup-celadon-original-v1",
+    "title": "Charim · Celadon cup / Original Edition",
+    "category": "Packaging",
+    "stage": "19 · Individual cups & nacre marks",
+    "src": "/archive/cup-editions-v1/cup-celadon-original-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Individual digital cup design concept. Original black flower or proposed nacre-look exterior flower. Maker, materials and production methods remain unconfirmed."
+  },
+  {
+    "id": "cup-white-nacre-v1",
+    "title": "Charim · White cup / Nacre Edition",
+    "category": "Packaging",
+    "stage": "19 · Individual cups & nacre marks",
+    "src": "/archive/cup-editions-v1/cup-white-nacre-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Individual digital cup design concept. Original black flower or proposed nacre-look exterior flower. Maker, materials and production methods remain unconfirmed."
+  },
+  {
+    "id": "cup-celadon-nacre-v1",
+    "title": "Charim · Celadon cup / Nacre Edition",
+    "category": "Packaging",
+    "stage": "19 · Individual cups & nacre marks",
+    "src": "/archive/cup-editions-v1/cup-celadon-nacre-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Individual digital cup design concept. Original black flower or proposed nacre-look exterior flower. Maker, materials and production methods remain unconfirmed."
+  },
+  {
     "id": "comic-maker-01",
     "title": "Before the First Pour · clay & shaping",
     "category": "Stories",

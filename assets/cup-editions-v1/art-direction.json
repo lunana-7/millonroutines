@@ -1,0 +1,29 @@
+{
+  "mode": "Built-in image_gen",
+  "kind": "product-mockup",
+  "version": 1,
+  "reference": "assets/cup-details-v2/cup-interior-v2.png",
+  "note": "Individual cup design proposals. Nacre Edition is an exterior pearl-look logo study, not a verified shell-inlay or approved ceramic production finish.",
+  "prompts": [
+    {
+      "color": "white",
+      "finish": "original",
+      "source": "cup-white-original-v1.png"
+    },
+    {
+      "color": "celadon",
+      "finish": "original",
+      "source": "cup-celadon-original-v1.png"
+    },
+    {
+      "color": "white",
+      "finish": "nacre",
+      "source": "cup-white-nacre-v1.png"
+    },
+    {
+      "color": "celadon",
+      "finish": "nacre",
+      "source": "cup-celadon-nacre-v1.png"
+    }
+  ]
+}
