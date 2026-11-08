@@ -37,3 +37,130 @@ em{font-style:normal;font-family:inherit;color:var(--accent)}
 .diary-atlas-destination{padding-top:0;padding-bottom:28px}.product-page>.illustrated-atlas{border-top:1px solid var(--line)}
 .ritual-lived{padding-block:70px;border-bottom:1px solid var(--line)}.ritual-lived-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:6vw;align-items:start}.ritual-lived figure{margin:0}.ritual-lived figure>a{display:block;position:relative;background:var(--pale)}.ritual-lived figure img{display:block;width:100%;height:auto}.ritual-photo-open{position:absolute;bottom:14px;right:14px;background:#fff;padding:9px 13px;font-size:10px}.ritual-dated-records>article{position:relative;border-top:1px solid var(--line);padding:25px 0 28px}.ritual-dated-records>article>p.eyebrow{max-width:75%;font-size:9px}.ritual-record-year{float:right;font-size:30px;line-height:1;color:var(--accent)}.ritual-dated-records h3{font-size:25px;line-height:1.35;margin:20px 0 15px;max-width:90%}.ritual-dated-records article>p:not(.eyebrow){font-size:12px;line-height:1.95}.ritual-dated-records .text-link{font-size:10px;margin-top:17px}.ritual-dated-records>.eyebrow{margin-bottom:25px}.ritual-lived .ritual-source-note{font-size:10px;line-height:1.9;color:var(--muted)}.ritual-period-methods{display:grid;grid-template-columns:1fr 2fr;gap:5vw;border-top:1px solid var(--line);margin-top:48px;padding-top:35px}.ritual-period-methods h3{font-size:30px;line-height:1.3;margin:17px 0}.ritual-period-methods p{font-size:12px;line-height:1.95}.ritual-period-methods ol{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);gap:28px}.ritual-period-methods li>span{font-size:9px;letter-spacing:1px;color:var(--accent)}.ritual-period-methods h4{font-size:20px;line-height:1.5;margin:15px 0}.ritual-lived-sources{padding-top:25px;display:flex;gap:15px 28px;flex-wrap:wrap}.ritual-lived-sources a{font-size:10px}.ritual-lived-sources p{width:100%;font-size:10px;color:var(--muted);line-height:1.8}@media(max-width:760px){.ritual-lived{padding-block:44px}.ritual-lived-grid,.ritual-period-methods{grid-template-columns:1fr;gap:32px}.ritual-period-methods ol{grid-template-columns:1fr;gap:24px}.ritual-period-methods li{border-top:1px solid var(--line);padding-top:20px}.ritual-dated-records h3{font-size:25px}.ritual-record-year{font-size:26px}.ritual-period-methods h3{font-size:28px}}
 .roots-craft{padding-block:75px}.roots-craft-nav{display:grid;grid-template-columns:repeat(4,1fr);border-block:1px solid var(--line);margin-bottom:65px}.roots-craft-nav a{padding:20px 15px 20px 0;font-size:12px;display:flex;justify-content:space-between;gap:12px}.roots-craft-nav a+a{border-left:1px solid var(--line);padding-left:22px}.roots-craft-nav span{color:var(--accent);font-size:11px}.roots-craft-chapter{scroll-margin-top:95px;margin-bottom:75px}.roots-craft-story{display:grid;grid-template-columns:1fr 1fr;gap:6vw;align-items:start}.roots-craft-story>div>h3,.roots-book-craft h3{font-size:clamp(30px,3.2vw,47px);line-height:1.18;letter-spacing:-1.6px;margin:20px 0 25px}.roots-craft-story>div>p:not(.eyebrow),.roots-book-craft p:not(.eyebrow){font-size:13px;line-height:1.95;margin-bottom:17px}.roots-craft-story .text-link,.roots-book-craft .text-link{font-size:10px}.roots-process-plate{margin:0;background:var(--pale);color:#466d5d;border:1px solid var(--line)}.roots-process-plate svg{width:100%;height:auto;display:block}.roots-process-plate figcaption{font-size:9px;line-height:1.8;padding:16px 22px;border-top:1px solid var(--line);color:var(--muted)}.roots-process-shell{background:#111916;color:#e8f1eb}.roots-process-shell figcaption{color:#b8c8bf;border-color:#ffffff24}.roots-process-thread{background:#e5eeea}.roots-craft-sequence{display:grid;grid-template-columns:repeat(4,1fr);list-style:none;padding:0;margin:35px 0 0;gap:25px}.roots-craft-sequence li{border-top:1px solid var(--line);padding-top:19px;min-width:0}.roots-craft-sequence h4{font-size:19px;line-height:1.4;margin:13px 0 12px}.roots-craft-sequence p{font-size:11px;line-height:1.9}.roots-craft-sequence .eyebrow{font-size:9px}.roots-craft-connection{display:grid;grid-template-columns:100px 1fr 180px;gap:24px;align-items:start;margin-top:30px;padding:24px;background:var(--pale)}.roots-craft-connection>span{font-size:9px;letter-spacing:1.4px;color:var(--accent);padding-top:3px}.roots-craft-connection p{font-size:11px;line-height:1.9;margin:0}.roots-craft-connection>a{font-size:10px;text-decoration:underline;text-underline-offset:5px;line-height:1.8;justify-self:end}.roots-craft-detail{border-block:1px solid var(--line);margin-top:25px}.roots-craft-detail summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:20px;font-size:12px;line-height:1.6;padding:18px 0}.roots-craft-detail summary::-webkit-details-marker{display:none}.roots-craft-detail summary>span{color:var(--accent)}.roots-craft-detail[open] summary>span{transform:rotate(45deg)}.roots-craft-detail>p{font-size:12px;line-height:1.95;margin-bottom:18px}.roots-craft-detail>.text-link{font-size:10px;margin-bottom:20px}.roots-technique-pair{margin:24px 0}.roots-technique-pair>div{display:grid;grid-template-columns:140px 1fr;gap:20px;border-top:1px solid var(--line);padding:15px 0}.roots-technique-pair dt{font-size:11px;line-height:1.9;color:var(--accent)}.roots-technique-pair dd{font-size:11px;line-height:1.9;margin:0}.roots-artisan-reference{border-top:1px solid var(--line);margin-top:30px;padding:24px 0;display:grid;grid-template-columns:1fr 2fr;gap:10px 35px}.roots-artisan-reference h4{font-size:22px;grid-column:1;margin:0}.roots-artisan-reference p:not(.eyebrow){font-size:12px;line-height:1.9;grid-column:2;grid-row:1/3;margin:0}.roots-artisan-reference .text-link{font-size:10px;grid-column:2;width:fit-content}.roots-artisan-reference .eyebrow{font-size:9px;margin:0}.roots-cloth-note{margin-top:30px}.roots-book-craft{display:grid;grid-template-columns:1fr 1fr;gap:6vw;border-block:1px solid var(--line);padding-block:45px;scroll-margin-top:95px}.roots-book-study{padding:25px;background:var(--pale)}.roots-book-study svg{display:block;width:100%;max-height:230px;margin-bottom:20px}.roots-book-study .eyebrow{font-size:9px}.roots-craft-provenance{font-size:10px;line-height:1.9;color:var(--muted);max-width:1000px;margin-top:28px}@media(max-width:1050px){.roots-craft-connection{grid-template-columns:80px 1fr}.roots-craft-connection>a{grid-column:2;justify-self:start}.roots-technique-pair>div{grid-template-columns:110px 1fr;gap:12px}.roots-craft-nav a{font-size:10px}.roots-craft-nav span{font-size:9px}}@media(max-width:760px){.roots-craft{padding-block:44px}.roots-craft-nav{grid-template-columns:1fr 1fr;margin-bottom:40px}.roots-craft-nav a{padding:16px 12px 16px 0;font-size:10px}.roots-craft-nav a+a{padding-left:12px}.roots-craft-nav a:nth-child(3){border-left:0;padding-left:0}.roots-craft-nav a:nth-child(n+3){border-top:1px solid var(--line)}.roots-craft-story,.roots-book-craft{grid-template-columns:1fr;gap:30px}.roots-craft-story>div>h3,.roots-book-craft h3{font-size:35px;letter-spacing:-1px}.roots-craft-story>div>p:not(.eyebrow),.roots-book-craft p:not(.eyebrow){font-size:12px}.roots-craft-sequence{grid-template-columns:1fr 1fr;gap:25px 20px;margin-top:28px}.roots-craft-sequence h4{font-size:18px}.roots-craft-connection{grid-template-columns:1fr;gap:12px;padding:20px}.roots-craft-connection>a{grid-column:1}.roots-craft-chapter{margin-bottom:48px}.roots-artisan-reference{display:block}.roots-artisan-reference h4{margin:15px 0}.roots-artisan-reference .text-link{margin-top:15px}.roots-book-craft{padding-block:30px}.roots-craft-provenance{font-size:9px}.roots-technique-pair>div{grid-template-columns:105px 1fr}.roots-process-plate figcaption{font-size:8px;padding:12px 16px}}
+
+/* Keep the homepage product photograph at its native ratio without blank bands. */
+.tea-hero .hero-visual{background:transparent}
+.tea-hero .hero-visual>img{display:block;width:100%;height:auto;aspect-ratio:3/2;max-height:none;background:transparent}
+
+/* The cup photograph is wrapped in a detail link; keep its intrinsic proportions. */
+.cup-design-layout .cup-detail-entry>img{display:block;width:100%;height:auto;object-fit:contain}
+.archive-cup-studies .archive-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.archive-cup-studies .archive-art{aspect-ratio:3/2;padding:0;background:#fff}.archive-cup-studies .archive-art img{height:auto;display:block}@media(max-width:760px){.archive-cup-studies .archive-grid{grid-template-columns:1fr}}
+.archive-retired-unified .archive-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.archive-retired-unified .archive-art{aspect-ratio:3/2;padding:0;background:#fff}@media(max-width:760px){.archive-retired-unified .archive-grid{grid-template-columns:1fr}}
+
+/* Six numbered tea pouch designs, alongside the shared Charim identity. */
+.tea-pouches{padding-top:90px;padding-bottom:90px;scroll-margin-top:100px}
+.tea-pouch-picker{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;margin:36px 0}
+.tea-pouch-picker button{display:grid;gap:8px;text-align:left;background:#fff;color:#171b1a;border:1px solid #ced9d3;padding:18px;cursor:pointer;font:inherit}
+.tea-pouch-picker button[aria-pressed="true"]{background:#e8f0eb;border-color:#426c60;box-shadow:inset 0 -3px #426c60}
+.tea-pouch-picker span,.tea-pouch-picker small{font-size:12px;color:#426c60}
+.tea-pouch-layout{display:grid;grid-template-columns:1.2fr 1fr;gap:56px;align-items:start}
+.tea-pouch-layout figure{margin:0}.tea-pouch-image{display:block;position:relative;width:100%;padding:0;background:#fff;border:1px solid #dce3df;cursor:zoom-in}
+.tea-pouch-image img{display:block;width:100%;height:auto}.tea-pouch-image span{position:absolute;right:16px;bottom:16px;background:#f7f8f5;padding:12px 18px;color:#171b1a}
+.tea-pouch-layout h3{font-size:clamp(28px,3vw,44px);line-height:1.15;margin:18px 0}.tea-pouch-ingredient{color:#426c60;font-size:22px}
+.tea-pouch-layout dl>div{border-top:1px solid #dce3df;padding:16px 0}.tea-pouch-layout dt{font-size:12px;text-transform:uppercase;letter-spacing:.1em}.tea-pouch-layout dd{margin:8px 0;color:#58665f;line-height:1.7}
+.tea-pouch-layout figcaption{font-size:12px;color:#58665f;margin-top:14px}
+@media(max-width:760px){.tea-pouch-picker{grid-template-columns:repeat(2,minmax(0,1fr))}.tea-pouch-layout{grid-template-columns:1fr;gap:26px}.tea-pouches{padding-top:55px;padding-bottom:55px}}
+
+/* Charim tea subscription preview */
+.subscription-hero{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;padding-top:75px;padding-bottom:85px}
+.subscription-hero h1{font-size:clamp(42px,5.5vw,78px);line-height:1.06;letter-spacing:-.05em;margin:24px 0}.subscription-page em{color:#426c60;font-style:normal}.subscription-lead{font-size:24px;line-height:1.5}
+.subscription-page figure{margin:0}.subscription-page figure img{display:block;width:100%;height:auto}.subscription-page figcaption{font-size:12px;color:#65736b;margin-top:12px}
+.subscription-plans{padding-top:60px;padding-bottom:80px;scroll-margin-top:110px}.subscription-plan-grid{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:36px}
+.subscription-plan{border:1px solid #d5ded8;background:#fff;padding:36px}.subscription-plan.selected{border-color:#426c60;background:#f2f6f3;box-shadow:inset 0 3px #426c60}.subscription-plan h3{font-size:32px;margin:18px 0}.subscription-price{font-size:60px;line-height:1;margin:28px 0 10px;letter-spacing:-.05em;color:#171b1a}.subscription-price span{font-size:14px;letter-spacing:0}.subscription-shipping{font-size:14px;color:#426c60}.subscription-plan ul{padding-left:20px;line-height:1.9;min-height:116px}.subscription-plan button{width:100%;border:1px solid #171b1a;background:#fff;color:#171b1a;cursor:pointer}.subscription-plan.selected button{background:#171b1a;color:#fff}
+.subscription-selection{display:grid;grid-template-columns:1fr 1fr;gap:60px;margin-top:50px;padding-top:35px;border-top:1px solid #d5ded8}.subscription-selection fieldset{border:0;padding:0;margin:16px 0}.subscription-selection legend{font-size:20px;margin-bottom:20px}.subscription-frequency{display:flex;gap:12px;flex-wrap:wrap}.subscription-frequency button{font:inherit;cursor:pointer;border:1px solid #b8cbc0;padding:16px;background:#fff;color:#171b1a}.subscription-frequency button[aria-pressed="true"]{background:#e2eee6;border-color:#426c60}.subscription-summary{background:#f2f6f3;padding:30px}.subscription-summary dl{margin:20px 0}.subscription-summary dl>div{display:flex;justify-content:space-between;gap:15px;padding:12px 0}.subscription-summary dd{margin:0}.subscription-total{border-top:1px solid #b8cbc0;font-weight:600}.subscription-summary small{display:block;line-height:1.6;margin-top:18px;color:#65736b}
+.subscription-inside{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;padding-top:60px;padding-bottom:70px}.subscription-inside h2,.subscription-product-link h2{font-size:clamp(32px,4vw,54px);line-height:1.12;letter-spacing:-.04em}.subscription-inside .text-link{display:table;margin-top:20px}
+.subscription-how{padding-top:40px;padding-bottom:60px}.subscription-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;margin-top:30px}.subscription-steps article{border-top:1px solid #c8d6cd;padding-top:20px}.subscription-steps h3{font-size:25px}
+.subscription-faq{padding-top:40px;padding-bottom:50px}.subscription-faq details,.subscription-pricing-notes details{border-top:1px solid #c8d6cd;padding:23px 0}.subscription-page summary{cursor:pointer;display:flex;justify-content:space-between;gap:20px;list-style:none;font-size:18px}.subscription-faq details p{max-width:820px}.subscription-pricing-notes{padding-bottom:70px}.subscription-pricing-notes li{margin:14px 0;line-height:1.7}.subscription-pricing-notes a{text-decoration:underline}
+.subscription-product-link{display:flex;gap:40px;align-items:center;justify-content:space-between;padding-top:45px;padding-bottom:60px;border-top:1px solid #c8d6cd}.subscription-product-link p{max-width:600px}
+@media(max-width:760px){.subscription-hero,.subscription-plan-grid,.subscription-selection,.subscription-inside,.subscription-steps{grid-template-columns:1fr;gap:28px}.subscription-hero{padding-top:40px;padding-bottom:45px}.subscription-plan{padding:26px}.subscription-plan ul{min-height:0}.subscription-product-link{display:block}.subscription-product-link>a{margin-top:20px}.subscription-summary{padding:24px}.subscription-lead{font-size:21px}}
+
+/* Ingredient colors identify the new plain-flower pouch family. */
+.tea-pouch-picker button[data-tea="nokcha"]{--tea-color:#a4bfa5}
+.tea-pouch-picker button[data-tea="balhyocha"]{--tea-color:#c7a16a}
+.tea-pouch-picker button[data-tea="boricha"]{--tea-color:#e3d8be}
+.tea-pouch-picker button[data-tea="yujacha"]{--tea-color:#e7ce73}
+.tea-pouch-picker button[data-tea="omijacha"]{--tea-color:#c3828b}
+.tea-pouch-picker button[data-tea="daechucha"]{--tea-color:#b78c72}
+.tea-pouch-picker button{border-top:3px solid var(--tea-color,#ced9d3)}
+.tea-pouch-color-dot{display:inline-block;width:11px;height:11px;border-radius:50%;background:var(--tea-color);margin-right:9px;vertical-align:middle;border:1px solid #0001}
+
+/* Preserve the native ratio of each tea still-life; never stretch the cup. */
+.tea-portraits-v4 .atlas-portrait-select button>img,.tea-portraits-v4 .atlas-detail figure img{width:100%;height:auto;aspect-ratio:1;object-fit:contain}
+
+/* Product-matched brewing scenes retain their native 3:2 framing. */
+.brew-scene{display:block;position:relative;margin-bottom:23px;border:1px solid #dce3df;background:#fff;overflow:hidden}
+.brew-scene img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:contain}
+.brew-scene>span{position:absolute;right:7px;bottom:7px;background:#fffffff0;color:#171b1a;padding:3px 7px;font-size:14px;line-height:1.2}
+.brew-scene:focus-visible{outline:2px solid #426c60;outline-offset:4px}
+@media(max-width:760px){.brew-scene{margin-bottom:18px}}
+
+/* Real source photographs and museum objects alongside the product research. */
+.maker-photo-references{display:block;background:#fff}
+.maker-reference-intro{display:grid;grid-template-columns:1.1fr 1fr;gap:7vw;align-items:end;margin-bottom:45px}
+.maker-photo-references .maker-reference-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+.maker-photo-references .maker-reference-list article{min-width:0;padding-top:20px}
+.maker-photo-references .maker-reference-list h3{font-size:clamp(25px,2.6vw,36px);line-height:1.15;min-height:2.3em;margin:18px 0 24px}
+.maker-reference-image{margin:0 0 24px}.maker-reference-image>a{display:block;position:relative;background:#f4f5f2;border:1px solid #dce3df}
+.maker-reference-image img{display:block;width:100%;height:280px;object-fit:contain}
+.maker-reference-image>a>span{position:absolute;right:8px;top:8px;background:#fffffff0;padding:3px 7px;color:#171b1a}
+.maker-reference-image figcaption{font-size:10px;line-height:1.6;color:#65736b;margin-top:13px}
+.maker-reference-image figcaption>strong,.maker-reference-image figcaption>span,.maker-reference-image figcaption>a{display:block;margin-top:4px}
+.maker-reference-image figcaption>strong{color:#171b1a;font-weight:500}.maker-reference-image figcaption>a{text-decoration:underline;text-underline-offset:3px}
+.maker-reference-notes{margin:22px 0}.maker-reference-notes>div{border-top:1px solid #dce3df;padding:16px 0}.maker-reference-notes dt{font-size:9px;letter-spacing:.08em;color:#426c60;margin-bottom:9px}.maker-reference-notes dd{font-size:12px;line-height:1.9;color:#65736b;margin:0}
+.maker-related{border-top:1px solid #dce3df;padding-top:20px}.maker-related h4{font-size:16px;margin:0 0 12px;font-weight:500}.maker-reference-disclosure{border-top:1px solid #dce3df;margin-top:35px;padding-top:23px;max-width:1000px}
+@media(max-width:760px){.maker-reference-intro,.maker-photo-references .maker-reference-list{grid-template-columns:1fr;gap:28px}.maker-reference-intro{margin-bottom:25px}.maker-photo-references .maker-reference-list h3{min-height:0;font-size:30px}.maker-reference-image img{height:320px}.maker-reference-image figcaption{font-size:10px}}
+
+/* Jump directly between chapters on the long product page. */
+html:has(.product-page){scroll-behavior:auto}
+
+/* Minimal footer: brand and a short statement, without the repeated link list. */
+@media(max-width:760px){.footer-top{grid-template-columns:1fr;gap:20px}.footer-top p{margin:0}}
+
+/* Three Bloom color studies share one silhouette. */
+.individual-cup-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.swatch-black{background:#202222;border:1px solid #5b6260}
+@media(max-width:760px){.individual-cup-grid{grid-template-columns:1fr}}
+
+/* Direct email signup from the product page. */
+.first-release-trigger{font:inherit;cursor:pointer;border:0;text-align:left}
+.first-release-dialog{box-sizing:border-box;width:min(520px,calc(100vw - 32px));max-height:calc(100dvh - 40px);overflow:auto;border:1px solid #dce3df;padding:40px;background:#fff;color:#171b1a}
+.first-release-dialog::backdrop{background:#14231d88;backdrop-filter:blur(5px)}
+.first-release-dialog h2{font-size:34px;line-height:1.15;letter-spacing:-.04em;margin:18px 0}
+.first-release-dialog>p:not(.eyebrow){font-size:14px;line-height:1.7;color:#65736b;margin-bottom:26px}
+.first-release-close{position:absolute;right:14px;top:12px;border:0;background:transparent;color:#171b1a;font-size:28px;line-height:1;cursor:pointer;padding:7px}
+.first-release-dialog form>label{display:block;font-size:13px;margin-bottom:10px}
+.first-release-dialog input[type=email]{box-sizing:border-box;display:block;width:100%;min-height:52px;padding:14px;border:1px solid #b8c9c0;background:#fff;color:#171b1a;font:inherit;border-radius:0}
+.first-release-dialog input:focus-visible{outline:2px solid #426c60;outline-offset:3px}
+.first-release-dialog form>label.first-release-consent{display:flex;align-items:flex-start;gap:10px;font-size:12px;line-height:1.6;color:#65736b;margin:22px 0}
+.first-release-consent input{width:17px;height:17px;flex:0 0 17px;margin:2px 0 0;accent-color:#426c60}
+.first-release-dialog .button{box-sizing:border-box;width:100%;font:inherit;border:0;cursor:pointer}
+.first-release-dialog .button:disabled{opacity:.6;cursor:wait}
+.first-release-error{color:#9a3333;font-size:13px;line-height:1.6;margin-top:16px}
+.first-release-privacy{font-size:12px;line-height:1.7;margin-top:22px;color:#65736b}.first-release-privacy summary{cursor:pointer}.first-release-privacy p{margin:12px 0 0}
+.first-release-success>p{color:#426c60;font-size:16px;margin:0 0 25px}
+@media(max-width:760px){.first-release-dialog{padding:32px 24px}.first-release-dialog h2{font-size:30px}}
+
+.textile-process-heading{margin-top:48px;max-width:760px}.textile-process-heading h3{margin:12px 0 18px}
+
+.bundle-object-image{display:flex;align-items:center;justify-content:center;position:relative;background:#f6f8f6;border:1px solid var(--line);aspect-ratio:4/3;margin-bottom:24px;padding:12px;overflow:hidden;cursor:zoom-in}.bundle-object-image img{display:block;width:100%;height:100%;object-fit:contain}.bundle-object-image>span{position:absolute;right:7px;bottom:7px;background:#fffffff0;padding:3px 8px;color:var(--ink);font-size:14px}.bundle-object-image:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+
+.bundle-picker{border:0;margin:26px 0 0;padding:0}.bundle-picker legend{font-size:10px;letter-spacing:1px;color:var(--accent);margin-bottom:14px}.bundle-picker>div{display:grid;grid-template-columns:1fr 1fr;gap:10px}.bundle-picker button{display:block;padding:17px 14px;text-align:left;border:1px solid var(--line);background:#fff;color:var(--ink)}.bundle-picker button[aria-pressed=true]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent);background:#f2f6f3}.bundle-picker button>span{display:block;font-size:13px}.bundle-picker small{display:block;font-size:10px;line-height:1.6;color:var(--muted);margin-top:7px}.bundle-picker>p{font-size:11px;line-height:1.8;color:var(--muted);margin-top:12px}.bundle-picker button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+.bundle-picker .bundle-option-price{display:block;font-size:24px;line-height:1.3;font-weight:500;margin-top:12px}.bundle-picker .bundle-option-price small{display:inline;font-size:10px;margin:0 0 0 3px}.product-price{margin:27px 0 24px;padding:24px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.product-price>.eyebrow{font-size:10px;margin:0 0 12px}.product-price>div{display:flex;align-items:baseline;flex-wrap:wrap;gap:12px}.product-price>div>strong{font-family:'Manrope',sans-serif;font-size:42px;letter-spacing:-1.5px;font-weight:500;line-height:1.2}.product-price>div>span{font-size:11px;color:var(--muted)}.product-price>p:not(.eyebrow){font-size:11px;line-height:1.8;margin-top:12px;color:var(--muted)}.product-price>.product-price-note{max-width:440px;font-size:10px!important}
+
+/* Short introductions, with deeper reading available on request. */
+.content-details{margin:20px 0;border-top:1px solid currentColor;border-color:var(--line,#d6ded8);min-width:0}
+.content-details>summary{display:flex;align-items:center;justify-content:space-between;gap:20px;cursor:pointer;list-style:none;font-family:'Manrope','Noto Sans KR',sans-serif;font-size:12px;font-weight:500;line-height:1.5;padding:15px 0;color:inherit}
+.content-details>summary::-webkit-details-marker{display:none}
+.content-details>summary::marker{content:""}
+.content-details>summary>span{font-size:16px;flex-shrink:0;transition:transform .16s}
+.content-details[open]>summary>span{transform:rotate(45deg)}
+.content-details>summary:focus-visible{outline:2px solid #78988a;outline-offset:5px}
+.content-details-body{padding:3px 0 18px;min-width:0}
+.content-details-body>p:first-child{margin-top:0}
+.content-details-body>section.section-wrap{padding:24px 0;max-width:none;width:100%}
+.education-nacre .content-details{border-color:#58675f}
+.product-contents-grid .content-details{margin-top:12px;margin-bottom:0}
+.product-contents-grid .content-details>summary{font-size:11px}
+.maker-reference-list .content-details{width:100%}
+@media(prefers-reduced-motion:reduce){.content-details>summary>span{transition:none}}

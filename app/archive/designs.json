@@ -1,5 +1,655 @@
 [
   {
+    "id": "black-cloth-v1-cloth",
+    "title": "Black tea cloth · silver flower embroidery",
+    "category": "Packaging",
+    "stage": "38 · A matching black cloth",
+    "src": "/images/black-cloth-v1/cloth-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Black edition textile concept with a silver-toned embroidered flower. Existing cups, ceramics, tea pouch colors and optional white diary are retained. Generated mockup; materials require sampling."
+  },
+  {
+    "id": "black-cloth-v1-bundle-with-diary",
+    "title": "Black ritual set + Tea Diary · black cloth",
+    "category": "Collections",
+    "stage": "38 · A matching black cloth",
+    "src": "/images/black-cloth-v1/bundle-with-diary-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Black edition textile concept with a silver-toned embroidered flower. Existing cups, ceramics, tea pouch colors and optional white diary are retained. Generated mockup; materials require sampling."
+  },
+  {
+    "id": "black-cloth-v1-bundle",
+    "title": "Black ritual set · black cloth",
+    "category": "Collections",
+    "stage": "38 · A matching black cloth",
+    "src": "/images/black-cloth-v1/bundle-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Black edition textile concept with a silver-toned embroidered flower. Existing cups, ceramics, tea pouch colors and optional white diary are retained. Generated mockup; materials require sampling."
+  },
+  {
+    "id": "black-cloth-v1-box",
+    "title": "Black box + black embroidered cloth",
+    "category": "Packaging",
+    "stage": "38 · A matching black cloth",
+    "src": "/images/black-cloth-v1/box-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Black edition textile concept with a silver-toned embroidered flower. Existing cups, ceramics, tea pouch colors and optional white diary are retained. Generated mockup; materials require sampling."
+  },
+  {
+    "id": "bundle-with-diary-v1-white",
+    "title": "White ritual set + Tea Diary",
+    "category": "Collections",
+    "stage": "37 · The ritual, with a diary",
+    "src": "/images/bundle-with-diary-v1/white-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Optional diary-included configuration with the new white hardcover and six numbered tea pouches laid flat together. Generated presentation concept; final packing, quantities and materials are still in development."
+  },
+  {
+    "id": "bundle-with-diary-v1-black",
+    "title": "Black ritual set + Tea Diary",
+    "category": "Collections",
+    "stage": "37 · The ritual, with a diary",
+    "src": "/images/bundle-with-diary-v1/black-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier Black edition with celadon cloth, retained before the matching black textile update."
+  },
+  {
+    "id": "diary-premium-v1-artwork",
+    "title": "White diary · front cover artwork",
+    "category": "Tea Diary",
+    "stage": "36 · A quieter white diary",
+    "src": "/diary/cover-front-premium-v1.svg",
+    "dark": false,
+    "current": true,
+    "note": "Refined contemporary diary concept: matte white boards, a tiny pearlescent flower, restrained black lettering and one pale celadon ribbon. Physical materials and binding are proposed for sampling."
+  },
+  {
+    "id": "diary-premium-v1-open",
+    "title": "The Cup / The Moment · refined physical concept",
+    "category": "Tea Diary",
+    "stage": "36 · A quieter white diary",
+    "src": "/images/diary-premium-v1/open-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Refined contemporary diary concept: matte white boards, a tiny pearlescent flower, restrained black lettering and one pale celadon ribbon. Physical materials and binding are proposed for sampling."
+  },
+  {
+    "id": "diary-premium-v1-cover",
+    "title": "White hardcover · a quieter diary",
+    "category": "Tea Diary",
+    "stage": "36 · A quieter white diary",
+    "src": "/images/diary-premium-v1/cover-1122.webp",
+    "dark": false,
+    "current": true,
+    "note": "Refined contemporary diary concept: matte white boards, a tiny pearlescent flower, restrained black lettering and one pale celadon ribbon. Physical materials and binding are proposed for sampling."
+  },
+  {
+    "id": "charim-ritual-guide-v2",
+    "title": "Four-step ritual guide · refined linework",
+    "category": "Packaging",
+    "stage": "35 · Clearer forms, quieter lines",
+    "src": "/product-designs/charim-ritual-guide-v2.svg",
+    "dark": false,
+    "current": true,
+    "note": "Redrawn vector line illustrations of the rounded Bloom cup and side-handle teapot, with consistent strokes and a clear pouring stream. The original four-panel layout and bilingual guidance are retained."
+  },
+  {
+    "id": "textile-process-v1-1",
+    "title": "Cut the square · tea cloth making",
+    "category": "Illustration",
+    "stage": "34 · A square, made with care",
+    "src": "/images/textile-process-v1/step-1-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a proposed single-piece celadon tea cloth construction, with silver flower embroidery. Not a historical workshop photograph or a confirmed production process."
+  },
+  {
+    "id": "textile-process-v1-2",
+    "title": "Finish the edges · tea cloth making",
+    "category": "Illustration",
+    "stage": "34 · A square, made with care",
+    "src": "/images/textile-process-v1/step-2-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a proposed single-piece celadon tea cloth construction, with silver flower embroidery. Not a historical workshop photograph or a confirmed production process."
+  },
+  {
+    "id": "textile-process-v1-3",
+    "title": "Stitch the flower · tea cloth making",
+    "category": "Illustration",
+    "stage": "34 · A square, made with care",
+    "src": "/images/textile-process-v1/step-3-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a proposed single-piece celadon tea cloth construction, with silver flower embroidery. Not a historical workshop photograph or a confirmed production process."
+  },
+  {
+    "id": "textile-process-v1-4",
+    "title": "Finish, fold & wrap · tea cloth making",
+    "category": "Illustration",
+    "stage": "34 · A square, made with care",
+    "src": "/images/textile-process-v1/step-4-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a proposed single-piece celadon tea cloth construction, with silver flower embroidery. Not a historical workshop photograph or a confirmed production process."
+  },
+  {
+    "id": "bundle-six-flatlay-v1-white",
+    "title": "White bundle · six teas together",
+    "category": "Collections",
+    "stage": "33 · Six teas, one view",
+    "src": "/images/bundle-six-flatlay-v1/white-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated presentation concept: all six numbered tea pouches lie flat beside the open bundle, with their individual colors and labels visible. Final recipes, quantities and packing arrangement are still in development."
+  },
+  {
+    "id": "bundle-six-flatlay-v1-black",
+    "title": "Black bundle · six teas together",
+    "category": "Collections",
+    "stage": "33 · Six teas, one view",
+    "src": "/images/bundle-six-flatlay-v1/black-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier Black edition with celadon cloth, retained before the matching black textile update."
+  },
+  {
+    "id": "ceramic-process-v1-4",
+    "title": "Review the sample · ceramic development",
+    "category": "Illustration",
+    "stage": "32 · Imagining the making process",
+    "src": "/images/ceramic-process-v1/step-4-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a possible ceramic development route using the Bloom cup direction. A design explanation, not a record of an appointed maker or completed product tests."
+  },
+  {
+    "id": "ceramic-process-v1-3",
+    "title": "Glaze & fire · ceramic development",
+    "category": "Illustration",
+    "stage": "32 · Imagining the making process",
+    "src": "/images/ceramic-process-v1/step-3-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a possible ceramic development route using the Bloom cup direction. A design explanation, not a record of an appointed maker or completed product tests."
+  },
+  {
+    "id": "ceramic-process-v1-2",
+    "title": "Dry & refine the foot · ceramic development",
+    "category": "Illustration",
+    "stage": "32 · Imagining the making process",
+    "src": "/images/ceramic-process-v1/step-2-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a possible ceramic development route using the Bloom cup direction. A design explanation, not a record of an appointed maker or completed product tests."
+  },
+  {
+    "id": "ceramic-process-v1-1",
+    "title": "Form the cup · ceramic development",
+    "category": "Illustration",
+    "stage": "32 · Imagining the making process",
+    "src": "/images/ceramic-process-v1/step-1-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated illustration of a possible ceramic development route using the Bloom cup direction. A design explanation, not a record of an appointed maker or completed product tests."
+  },
+  {
+    "id": "black-sibling-v1-bundle",
+    "title": "Black · same collection, satin-black cups",
+    "category": "Collections",
+    "stage": "31 · Black & White sibling editions",
+    "src": "/images/black-sibling-v1/bundle-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Black sibling of the White edition. Matching box layout and rounded Bloom form, charcoal paper and a satin-black ceramic finish concept. AI-generated design study; physical materials and manufacturing remain unconfirmed."
+  },
+  {
+    "id": "black-sibling-v1-box",
+    "title": "Black · matching floral-band gift box",
+    "category": "Packaging",
+    "stage": "31 · Black & White sibling editions",
+    "src": "/images/black-sibling-v1/box-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier Black edition with celadon cloth, retained before the matching black textile update."
+  },
+  {
+    "id": "black-sibling-v1-cups",
+    "title": "Satin black · Bloom cup pair",
+    "category": "Collections",
+    "stage": "31 · Black & White sibling editions",
+    "src": "/images/black-sibling-v1/cups-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Black sibling of the White edition. Matching box layout and rounded Bloom form, charcoal paper and a satin-black ceramic finish concept. AI-generated design study; physical materials and manufacturing remain unconfirmed."
+  },
+  {
+    "id": "white-bundle-color-pouch-v3",
+    "title": "White bundle · current Nokcha pouch",
+    "category": "Packaging",
+    "stage": "30 · Current pouch in the bundle",
+    "src": "/images/bundle-color-pouch-v3/bundle-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Updated green tea pouch: plain black flower, million routines, 차림, 01 NOKCHA and tea-leaf ingredient label. Retains the White bundle design direction and silver flower embroidery. AI-generated concept."
+  },
+  {
+    "id": "brewing-scene-v2-4",
+    "title": "Share & notice · product ritual scene",
+    "category": "Illustration",
+    "stage": "29 · Product-matched brewing guide",
+    "src": "/images/brewing-guide-v2/step-4-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated contemporary brewing concept using the Bloom cup direction, a white side-handle pot, walnut tray and silver-embroidered celadon cloth. Replaces the earlier green line icons."
+  },
+  {
+    "id": "brewing-scene-v2-3",
+    "title": "Steep, then decant · product ritual scene",
+    "category": "Illustration",
+    "stage": "29 · Product-matched brewing guide",
+    "src": "/images/brewing-guide-v2/step-3-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated contemporary brewing concept using the Bloom cup direction, a white side-handle pot, walnut tray and silver-embroidered celadon cloth. Replaces the earlier green line icons."
+  },
+  {
+    "id": "brewing-scene-v2-2",
+    "title": "Cool the water · product ritual scene",
+    "category": "Illustration",
+    "stage": "29 · Product-matched brewing guide",
+    "src": "/images/brewing-guide-v2/step-2-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated contemporary brewing concept using the Bloom cup direction, a white side-handle pot, walnut tray and silver-embroidered celadon cloth. Replaces the earlier green line icons."
+  },
+  {
+    "id": "brewing-scene-v2-1",
+    "title": "Set out & measure · product ritual scene",
+    "category": "Illustration",
+    "stage": "29 · Product-matched brewing guide",
+    "src": "/images/brewing-guide-v2/step-1-768.webp",
+    "dark": false,
+    "current": true,
+    "note": "Generated contemporary brewing concept using the Bloom cup direction, a white side-handle pot, walnut tray and silver-embroidered celadon cloth. Replaces the earlier green line icons."
+  },
+  {
+    "id": "brewing-icon-v1-04",
+    "title": "Share & notice · early line icon",
+    "category": "Illustration",
+    "stage": "28 · Earlier brewing guide icons",
+    "src": "/archive/brewing-icons-v1/04.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier four-step loose-leaf brewing illustration, preserved before the product-matched photographic concept sequence."
+  },
+  {
+    "id": "brewing-icon-v1-03",
+    "title": "Steep, then decant · early line icon",
+    "category": "Illustration",
+    "stage": "28 · Earlier brewing guide icons",
+    "src": "/archive/brewing-icons-v1/03.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier four-step loose-leaf brewing illustration, preserved before the product-matched photographic concept sequence."
+  },
+  {
+    "id": "brewing-icon-v1-02",
+    "title": "Cool the water · early line icon",
+    "category": "Illustration",
+    "stage": "28 · Earlier brewing guide icons",
+    "src": "/archive/brewing-icons-v1/02.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier four-step loose-leaf brewing illustration, preserved before the product-matched photographic concept sequence."
+  },
+  {
+    "id": "brewing-icon-v1-01",
+    "title": "Set out & measure · early line icon",
+    "category": "Illustration",
+    "stage": "28 · Earlier brewing guide icons",
+    "src": "/archive/brewing-icons-v1/01.svg",
+    "dark": false,
+    "current": false,
+    "note": "Earlier four-step loose-leaf brewing illustration, preserved before the product-matched photographic concept sequence."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-daechucha",
+    "title": "Jujube · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/daechucha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-omijacha",
+    "title": "Omija · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/omijacha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-yujacha",
+    "title": "Yuja · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/yujacha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-boricha",
+    "title": "Roasted barley · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/boricha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-balhyocha",
+    "title": "Oxidized tea · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/balhyocha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v6-nokcha",
+    "title": "Green tea · Bloom tea portrait",
+    "category": "Illustration",
+    "stage": "27 · Bloom cup proportion refinement",
+    "src": "/images/tea-atlas-bloom-v6/nokcha-1254.webp",
+    "dark": false,
+    "current": true,
+    "note": "Korean ink-wash landscape and ingredients retained, with a Bloom cup and revised height-to-width proportions. AI-generated concept illustration, not a physical size specification."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-daechucha",
+    "title": "Jujube · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/daechucha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-omijacha",
+    "title": "Omija · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/omijacha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-yujacha",
+    "title": "Yuja · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/yujacha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-boricha",
+    "title": "Roasted barley · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/boricha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-balhyocha",
+    "title": "Oxidized tea · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/balhyocha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "tea-atlas-bloom-v5-nokcha",
+    "title": "Green tea · Bloom scene study",
+    "category": "Illustration",
+    "stage": "26 · Bloom tea scene studies",
+    "src": "/images/tea-atlas-bloom-v5/nokcha-1254.webp",
+    "dark": false,
+    "current": false,
+    "note": "Cup replacement study retaining the Korean ink-wash landscape and ingredients. Superseded after cup proportions were reviewed."
+  },
+  {
+    "id": "color-pouches-v2-nokcha",
+    "title": "million routines 차림 · 녹차 · Celadon",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/nokcha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "color-pouches-v2-balhyocha",
+    "title": "million routines 차림 · 발효차 · Amber",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/balhyocha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "color-pouches-v2-boricha",
+    "title": "million routines 차림 · 보리차 · Oat",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/boricha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "color-pouches-v2-yujacha",
+    "title": "million routines 차림 · 유자차 · Citron",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/yujacha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "color-pouches-v2-omijacha",
+    "title": "million routines 차림 · 오미자차 · Berry",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/omijacha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "color-pouches-v2-daechucha",
+    "title": "million routines 차림 · 대추차 · Jujube",
+    "category": "Collections",
+    "stage": "25 · One flower and six colors",
+    "src": "/images/tea-pouches-color-v2/daechucha-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "Plain black flower logo; million routines and 차림 branding without romanized CHARIM. Ingredient colors distinguish the six pouch concepts. AI-generated design study; production specifications and final labels remain unconfirmed."
+  },
+  {
+    "id": "silver-pouches-v1-box",
+    "title": "Charim · White box and silver flower embroidery",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/box-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-bundle",
+    "title": "Charim · Bloom cups and silver embroidery bundle",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/bundle-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development. Superseded in the active White bundle by the current numbered Nokcha pouch label."
+  },
+  {
+    "id": "silver-pouches-v1-cloth",
+    "title": "Charim · Celadon cloth with silver flower stitches",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/cloth-1536.webp",
+    "dark": false,
+    "current": true,
+    "note": "AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-nokcha",
+    "title": "Charim · 01 Nokcha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/nokcha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-balhyocha",
+    "title": "Charim · 02 Balhyocha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/balhyocha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-boricha",
+    "title": "Charim · 03 Boricha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/boricha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-yujacha",
+    "title": "Charim · 04 Yujacha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/yujacha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-omijacha",
+    "title": "Charim · 05 Omijacha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/omijacha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "silver-pouches-v1-daechucha",
+    "title": "Charim · 06 Daechucha pouch",
+    "category": "Collections",
+    "stage": "24 · Silver stitches and six teas",
+    "src": "/images/tea-pouches-silver-v1/daechucha-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Earlier silver-flower pouch direction, superseded by the plain black flower and ingredient-color version. AI-generated concept. Silver flower embroidery and six numbered tea pouch directions; final materials, producers, recipes and labels require development."
+  },
+  {
+    "id": "unified-v1-packaging",
+    "title": "Charim · One identity in black & white",
+    "category": "Collections",
+    "stage": "23 · One flower, one collection",
+    "src": "/images/charim-unified-v1/packaging-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Archived alternative · not the active product design. Matching box structure, flower and typography in two colorways. AI-generated design concept; final materials and suppliers are unconfirmed."
+  },
+  {
+    "id": "unified-v1-bundle",
+    "title": "Charim · Six-tea drawer & Bloom cups",
+    "category": "Collections",
+    "stage": "23 · One flower, one collection",
+    "src": "/images/charim-unified-v1/bundle-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Archived alternative · not the active product design. Six numbered tea packs, band-free white/celadon cup pair, matching ceramics and cloth. AI-generated design concept; final materials and suppliers are unconfirmed."
+  },
+  {
+    "id": "unified-v1-diary",
+    "title": "Charim · White hardcover Tea Diary",
+    "category": "Tea Diary",
+    "stage": "23 · One flower, one collection",
+    "src": "/images/charim-unified-v1/diary-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Archived alternative · not the active product design. White cloth, nacre-like flower, subtle title panel and celadon ribbon. AI-generated design concept; final materials and suppliers are unconfirmed."
+  },
+  {
+    "id": "unified-v1-ingredients",
+    "title": "Charim · Six ingredient families",
+    "category": "Collections",
+    "stage": "23 · One flower, one collection",
+    "src": "/images/charim-unified-v1/ingredients-1536.webp",
+    "dark": false,
+    "current": false,
+    "note": "Archived alternative · not the active product design. Green and oxidized leaves, barley, yuja, omija and jujube. Ingredient concept images, not supplier batches. AI-generated design concept; final materials and suppliers are unconfirmed."
+  },
+  {
+    "id": "charim-bloom-no-band-v1",
+    "title": "Bloom · Nacre flower, no band",
+    "category": "Collections",
+    "stage": "22 · Nacre cups without the band",
+    "src": "/archive/cup-band-free-v1/charim-bloom-no-band-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "White and celadon cup study with a single small pearl-like flower. The lower decorative band is removed; the ceramic foot, interior and rim stay plain. AI-generated design concept; finish and production method are unconfirmed."
+  },
+  {
+    "id": "charim-drifting-petals-no-band-v1",
+    "title": "Drifting Petals · A lighter nacre study",
+    "category": "Collections",
+    "stage": "22 · Nacre cups without the band",
+    "src": "/archive/cup-band-free-v1/charim-drifting-petals-no-band-v1.webp",
+    "dark": false,
+    "current": true,
+    "note": "Three asymmetric pearl-like petals replace the single flower on white and celadon cups. No decorative band around the foot or rim. AI-generated design concept; finish and production method are unconfirmed."
+  },
+  {
     "id": "comic-maker-tea-04-v2",
     "title": "Before the First Pour · The first telling-off",
     "category": "Stories",
@@ -206,8 +856,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/nokcha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "tea-atlas-v4-balhyocha",
@@ -216,8 +866,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/balhyocha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "tea-atlas-v4-boricha",
@@ -226,8 +876,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/boricha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "tea-atlas-v4-yujacha",
@@ -236,8 +886,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/yujacha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "tea-atlas-v4-omijacha",
@@ -246,8 +896,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/omijacha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "tea-atlas-v4-daechucha",
@@ -256,8 +906,8 @@
     "stage": "14 · Six Korean cups",
     "src": "/archive/tea-atlas-v4/daechucha-v4.webp",
     "dark": false,
-    "current": true,
-    "note": "Original digital tea portrait: dimensional Korean ceramic cup, source ingredients and a hanji-inspired ink landscape. An educational illustration, not product photography."
+    "current": false,
+    "note": "Earlier Korean ink-wash tea portrait with a superseded cup design. Retained as design history."
   },
   {
     "id": "nacre-pour-ready-v2",
@@ -296,8 +946,8 @@
     "stage": "12 · Black & White editions",
     "src": "/images/charim-bundle-v1-1536.webp",
     "dark": false,
-    "current": true,
-    "note": "The earlier white design, restored as White Version 2 with the current Charim name. Black flower mark, white box, black nacre-floral details and celadon accents."
+    "current": false,
+    "note": "The earlier white design, restored as White Version 2 with the current Charim name. Black flower mark, white box, black nacre-floral details and celadon accents. Superseded in the active White bundle by the current numbered Nokcha pouch label."
   },
   {
     "id": "white-edition-v2-box",
@@ -426,8 +1076,8 @@
     "stage": "08 · Black, nacre & embroidery",
     "src": "/archive/collection-v3/diary-hardcover-v2.webp",
     "dark": false,
-    "current": true,
-    "note": "Current concept direction. Final materials and specifications are in development."
+    "current": false,
+    "note": "Earlier black hardcover direction, retained after the refined white diary redesign."
   },
   {
     "id": "Tea Diary · hardcover front artwork v2",
@@ -436,8 +1086,8 @@
     "stage": "08 · Black, nacre & embroidery",
     "src": "/diary/cover-front-v2.svg",
     "dark": false,
-    "current": true,
-    "note": "Current flat artwork. Printed nacre appearance is a proposed effect, not real shell inlay."
+    "current": false,
+    "note": "Earlier black hardcover direction, retained after the refined white diary redesign."
   },
   {
     "id": "collection-v3-diary-open-v2",
@@ -446,8 +1096,8 @@
     "stage": "08 · Black, nacre & embroidery",
     "src": "/archive/collection-v3/diary-open-v2.webp",
     "dark": false,
-    "current": true,
-    "note": "Current concept direction. Final materials and specifications are in development."
+    "current": false,
+    "note": "Earlier black hardcover direction, retained after the refined white diary redesign."
   },
   {
     "id": "brand-v2-tea-story-master-v3",

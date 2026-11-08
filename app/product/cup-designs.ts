@@ -1,6 +1,6 @@
-export type CupColor="white"|"celadon";
+export type CupColor="white"|"celadon"|"black";
 export type CupFinish="original"|"nacre";
-export const cupColors={white:{name:"White cup",ko:"백자빛",description:"A soft white surface. A rounded form, framed by a small foot."},celadon:{name:"Celadon cup",ko:"청자빛",description:"A pale celadon surface. The same gentle curve, with a little more color."}};
-export const cupFinishes={original:{name:"Original Edition",description:"The black flower mark, with a fine pearl-like line at the foot."},nacre:{name:"Nacre Edition",description:"A pearl-like flower mark and a fine exterior accent, catching a little celadon, silver and pink."}};
-export function cupImage(color:CupColor,finish:CupFinish,width=1254){return `/images/cup-${color}-${finish}-v1-${width}.webp`}
-export function cupImageAlt(color:CupColor,finish:CupFinish){return `Individual ${color==="white"?"soft white":"pale celadon"} Charim tea cup concept, rounded and handleless, with ${finish==="nacre"?"a mother-of-pearl-inspired flower logo":"a black flower logo"} low on the exterior and a fine pearl-like line above the foot`}
+export const cupColors={black:{name:"Satin black cup",ko:"먹빛",description:"The same rounded Bloom form in a satin-black glaze concept, with a subtle mineral-like surface, a softly glossy interior and a plain ceramic foot."},white:{name:"White cup",ko:"백자빛",description:"Soft white glaze, a rounded body and a plain ceramic foot."},celadon:{name:"Celadon cup",ko:"청자빛",description:"Pale celadon glaze, the same rounded body and a plain ceramic foot."}};
+export const cupFinishes={original:{name:"Bloom Edition",description:"A pearl-like flower on a plain ceramic base, without a decorative band."},nacre:{name:"Bloom Edition",description:"A pearl-like flower on a plain ceramic base, without a decorative band."}};
+export function cupImage(color:CupColor,_finish:CupFinish,width=1254){return `/images/charim-bloom-${color}-v1-${width}.webp`}
+export function cupImageAlt(color:CupColor,_finish:CupFinish){return `Detail of the ${color==="white"?"soft white":color==="black"?"satin black":"pale celadon"} Charim Bloom cup, with a rounded body, a nacre-inspired flower and a plain ceramic foot without a decorative band`}

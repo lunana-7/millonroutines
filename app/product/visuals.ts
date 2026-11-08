@@ -1,11 +1,11 @@
 export const productVisuals = {
   "cups": {
-    "width": 1122,
-    "height": 1402,
+    "width": 1536,
+    "height": 1024,
     "widths": [
       560,
       900,
-      1122
+      1536
     ]
   },
   "box": {
